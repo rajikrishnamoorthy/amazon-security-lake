@@ -1,0 +1,1001 @@
+timestamp,log_level,service_name,message,user_id,session_id,client_ip_address
+2023-10-16 01:16:09,ERROR,FileService,File Operation for user 47522.,12434,07688a40-7a0a-42c5-b732-67812a94b87a,181.199.245.40
+2023-07-27 22:06:59,WARN,PrivilegeService,Accessed Sensitive Data for user 25697.,52266,410364d6-6af8-4e66-a9e8-119774cb6d88,43.135.239.188
+2023-09-01 17:25:48,ERROR,AuthenticationService,User Logout for user 49966.,95770,5104eefd-effb-4a2a-8ba5-6e5631d547ff,32.117.149.253
+2023-06-29 06:04:55,WARN,NetworkService,User Logout for user 51662.,55985,e1fbc36d-5a42-49a1-a100-ae218c5212d9,202.68.250.236
+2023-11-30 23:32:04,WARN,AuthenticationService,Network Connection for user 66849.,45971,7e56d52e-ec06-40cc-aa48-c4e4348f21de,18.192.22.97
+2023-02-19 08:08:26,ERROR,FileService,System Change for user 90893.,83672,f935c547-c9b1-4dda-be81-f9076f39753f,191.6.13.83
+2023-03-19 02:15:22,WARN,PrivilegeService,Password Change for user 40541.,61689,c5a61016-de08-4c6d-bbee-f160ffa12fa8,139.230.248.43
+2023-04-02 17:46:35,INFO,PrivilegeService,User Logout for user 64286.,48387,4675ad63-61d1-4a5a-b7e5-91130a5fda7f,134.135.95.215
+2023-02-08 20:01:12,WARN,UserLoginSuccessful,User Login,94794,f94092b2-3304-47e7-b901-3681887a7a17,156.57.107.190
+2023-01-03 02:30:00,ERROR,UserLoginFailure,Failed Login Attempt,22972,5e901387-106c-4b4f-bad0-86c40ddfd192,153.130.151.225
+2023-09-06 15:42:57,ERROR,NetworkService,Password Change for user 27769.,45181,dbfa593c-4623-47d2-bf8e-976e4648f133,5.61.222.149
+2023-12-20 00:40:27,WARN,UserLoginSuccessful,User Login,33046,46b80828-cb32-4b7b-84f8-71216a4ea02e,170.120.24.184
+2023-12-01 09:49:43,ERROR,NetworkService,Accessed Sensitive Data for user 75694.,77707,ff99b45e-2d4a-4b9c-b795-0056e772e126,175.144.164.66
+2023-11-29 02:06:50,ERROR,SystemService,File Operation for user 93586.,17765,9171c9e8-c19d-423f-9a7e-d14e646bb49b,197.106.65.182
+2023-02-01 01:11:40,INFO,FileService,Network Connection for user 34364.,18961,b9b0cb47-22f3-47f7-b887-43469b5418bc,209.232.136.230
+2023-09-04 07:31:33,ERROR,AuthenticationService,System Change for user 78799.,50659,5a2d56dc-e35f-4850-b4b0-28790eb79a35,198.227.101.8
+2023-02-24 21:57:38,INFO,UserLoginFailure,Failed Login Attempt,45848,f0168961-aaae-4be3-be9d-22dad6a20831,122.151.109.106
+2023-10-06 01:24:03,INFO,PrivilegeService,File Operation for user 35517.,90548,7c54f570-e5ab-4128-aa4a-ef3e51aff79f,191.201.155.35
+2023-11-11 10:07:45,ERROR,FileService,System Change for user 58046.,85488,945dbe86-7b0f-4c88-bfe0-a49ea27ce219,70.113.208.235
+2023-10-15 19:29:12,WARN,PrivilegeService,Account Deletion for user 15495.,48973,d8416b0e-d814-4323-b068-35307c464341,63.3.27.242
+2023-01-21 00:40:20,WARN,NetworkService,Security Alert for user 48092.,38674,bf9a3502-6b98-466b-80d4-b04c68cf4e02,169.59.40.154
+2023-09-03 17:24:48,WARN,AccountService,Password Change for user 87118.,86042,f4296420-cd85-4e6b-b777-81c806f66d06,179.233.209.227
+2023-07-23 21:46:52,ERROR,AuthenticationService,Network Connection for user 79778.,53662,394a4e4e-c2dc-4baa-9a8f-024e3d0170c0,131.253.70.145
+2023-08-13 11:12:26,WARN,AuthenticationService,Export of Data for user 52632.,32877,2c225e1b-8550-4e15-8c7a-56dfae22d5c9,197.119.137.73
+2023-04-19 12:10:59,INFO,PrivilegeService,Password Change for user 38199.,20677,e67a369e-c2d3-4d70-b362-520339a75f2a,19.165.23.11
+2023-03-21 07:51:47,INFO,AccountService,Export of Data for user 95123.,91271,1dbbd9f1-2054-4e7c-b3fa-51af15149a6f,185.72.19.101
+2023-07-11 03:35:59,WARN,FileService,Account Deletion for user 26010.,26833,580dcbbf-42b7-43a7-aef2-38e253358cfa,45.244.48.58
+2023-10-04 17:20:39,WARN,AuthenticationService,Account Deletion for user 58055.,39372,8f7ec49b-9f46-4d01-aa3b-e3471d18b347,72.153.111.31
+2023-05-08 04:50:16,WARN,NetworkService,User Logout for user 43317.,56246,ec723af7-2fe5-4a48-8dc5-0acf821765a6,214.87.71.106
+2023-06-18 03:17:03,ERROR,FileService,User Logout for user 81458.,37071,b78d662a-2b69-4f91-a879-d54f374c3378,156.95.168.117
+2023-07-27 06:53:31,WARN,NewAccount,Account Creation,20923,5844aa2c-9b7b-4d1c-bfff-87a33854c24d,214.140.255.82
+2023-06-21 19:17:57,ERROR,AccountService,Accessed Sensitive Data for user 78434.,74630,49643bfb-c12e-4bb0-aca4-aafb7d09bc34,220.137.39.218
+2023-02-12 19:51:48,ERROR,NewAccount,Account Creation,34555,21695356-a4b9-4a09-9391-7e21b6314b0a,11.59.124.35
+2023-07-30 13:29:26,INFO,AuthenticationService,Account Deletion for user 28794.,34089,25964a96-220f-4e2b-914c-741763de66f6,67.237.82.16
+2023-05-07 21:35:33,INFO,PrivilegeService,Password Change for user 81220.,11540,8a3a3b23-8dc4-4554-b7ae-5da5122cf765,7.122.237.198
+2023-03-12 00:40:14,ERROR,FileService,User Logout for user 36257.,42934,fc553dd3-3a3d-438f-b229-59f85188769f,117.187.182.204
+2023-09-19 09:14:38,INFO,AuthenticationService,Password Change for user 15682.,40396,94c721cc-180e-4a3f-bc22-f7e59896e474,186.107.206.244
+2023-04-15 07:51:55,WARN,SystemService,System Change for user 35805.,92722,bf932743-e6fe-479e-9f87-449a1d3888fd,180.60.63.60
+2023-10-20 09:19:34,INFO,AuthenticationService,File Operation for user 74941.,46992,8f33212a-dbd7-49b4-9b2c-909008a3884a,145.50.194.67
+2023-03-15 19:37:19,ERROR,UserLoginSuccessful,User Login,90821,4a9f4f82-1254-4b1d-8b06-f543aff89ad6,210.24.160.195
+2023-07-02 00:41:09,WARN,FileService,Security Alert for user 40248.,14101,e8f266c2-3170-484d-b038-58d03eeba841,27.56.255.42
+2023-09-12 23:17:10,ERROR,FileService,Network Connection for user 26953.,85826,4efef6e3-884d-4212-8949-b79fd705de04,42.139.117.207
+2023-10-27 09:03:08,WARN,SystemService,Accessed Sensitive Data for user 43332.,89623,49a037e0-2f61-45ce-8729-196b1f744172,187.193.120.174
+2023-06-06 00:59:13,WARN,PrivilegeService,File Operation for user 99281.,47617,bca97417-a2d0-4c8b-974b-5943255b4685,111.23.143.50
+2023-10-20 07:09:23,ERROR,NewAccount,Account Creation,88146,7ca2c459-df38-4a9a-8086-e22332f265a6,150.113.57.73
+2023-12-21 20:59:13,WARN,SystemService,Privilege Change for user 67270.,18221,1b1dcea9-3e5b-473f-afac-5de68f7a29e2,136.128.108.34
+2023-12-17 16:27:28,WARN,PrivilegeService,Export of Data for user 87500.,14486,9b457767-b695-4250-940d-964b1f812090,175.234.152.223
+2023-01-10 01:38:55,ERROR,PrivilegeService,Network Connection for user 58179.,57748,ee977fab-5094-4bf7-b18f-09980de397a3,112.115.46.35
+2023-12-07 16:36:08,INFO,UserLoginSuccessful,User Login,65157,d65b3c27-63da-4431-9a21-7cd2a260278c,214.175.59.201
+2023-02-09 03:09:27,WARN,FileService,Accessed Sensitive Data for user 75625.,70539,82bbedb8-c7cb-4f00-a29d-625e82d53bc8,149.187.30.218
+2023-08-01 05:24:19,WARN,FileService,Password Change for user 70170.,30934,c6190c1e-fdbe-4543-9f14-860360e29890,57.159.48.250
+2023-08-26 07:28:50,INFO,NetworkService,Accessed Sensitive Data for user 43541.,28025,1c0c4bfe-bccb-4f79-92f5-d2068eb8dd10,78.26.16.110
+2023-11-23 03:40:29,ERROR,PrivilegeService,Password Change for user 36314.,67391,9883e7b9-ca91-4a14-b01b-f9b759336817,212.69.213.75
+2023-06-25 11:52:15,ERROR,PrivilegeService,User Logout for user 35382.,62228,a4ac83a5-dee3-4e81-9bfc-5ae468bd4420,36.109.67.80
+2023-10-05 14:42:20,INFO,PrivilegeService,User Logout for user 40616.,84297,ae722861-ad30-472d-8f16-ae23c4fe6a05,188.88.21.24
+2023-05-12 05:37:39,ERROR,NewAccount,Account Creation,57993,a225f1f8-8416-47c1-be01-b5721eef5aab,209.25.22.137
+2023-07-30 05:29:02,WARN,FileService,Password Change for user 66036.,83239,075eaa59-c82e-457f-a7a1-58b8f7a940fa,188.194.214.76
+2023-03-28 16:22:05,ERROR,SystemService,Security Alert for user 83585.,37178,d41fcf73-2c76-462b-9759-2a9fba1e712d,44.251.2.132
+2023-09-08 18:34:30,ERROR,NetworkService,System Change for user 17567.,45306,b8e5d437-3f2f-4e58-8ba4-41cfd829ebeb,187.34.227.255
+2023-04-29 05:52:42,WARN,UserLoginSuccessful,User Login,95253,525e1e9c-7904-4da6-8674-babf056e3cad,92.223.92.189
+2023-11-09 04:08:32,WARN,UserLoginFailure,Failed Login Attempt,83208,de8fa299-ef53-4a7d-a189-65e76785b5dd,187.150.238.0
+2023-10-17 20:24:23,ERROR,UserLoginFailure,Failed Login Attempt,50992,647bb5d9-6d96-422f-a8e1-97efa63d22d9,35.122.36.162
+2023-03-19 23:30:14,INFO,UserLoginFailure,Failed Login Attempt,69748,159ec939-cdc4-4de8-bc48-ee0912bb388b,22.87.11.66
+2023-04-27 02:25:12,ERROR,AuthenticationService,System Change for user 59288.,59002,e9db3f77-7db5-4fda-9ccb-a315beb200df,130.2.102.120
+2023-02-18 19:03:33,ERROR,NetworkService,File Operation for user 96649.,18181,d14cc83d-fab7-4af1-86c5-016d1501b10d,8.216.192.67
+2023-02-12 15:39:29,ERROR,NewAccount,Account Creation,35943,9810d6f0-1d8d-4f82-b238-e9bb081a84be,139.137.65.242
+2023-02-08 14:13:28,INFO,NewAccount,Account Creation,15717,7d23c944-efcc-4b28-adf4-6ec9d60b7c02,72.111.71.255
+2023-07-05 09:52:56,INFO,NetworkService,Export of Data for user 24088.,50606,d29c16f1-422a-4788-bdf6-67b09e5f2c18,132.74.64.216
+2023-08-03 21:23:05,INFO,SystemService,File Operation for user 45884.,90864,e4250245-70bf-41f6-ac9e-a255a616d19e,167.156.79.132
+2023-10-08 05:09:57,ERROR,SystemService,Accessed Sensitive Data for user 80686.,36955,1639ad43-c92d-4426-8483-2a089a8a1796,194.246.66.56
+2023-12-26 03:29:31,WARN,NewAccount,Account Creation,57259,38d39d92-8143-4308-9001-c5b416da2d97,141.95.134.254
+2023-02-21 04:34:51,INFO,AccountService,User Logout for user 20529.,28179,e880fbbe-9b8b-4970-ac01-8706cf2bc00e,37.167.74.228
+2023-08-08 18:24:06,INFO,FileService,Accessed Sensitive Data for user 55200.,18398,3ba346aa-6df1-4dc7-ad10-dbc765259c9a,202.64.189.42
+2023-06-13 00:57:31,INFO,AccountService,File Operation for user 94945.,21695,486a093e-9a59-49f1-b6a0-ac22a230eb81,49.212.181.118
+2023-12-30 06:26:09,INFO,AccountService,User Logout for user 37411.,44028,69ba6e07-aa91-436a-b544-ad988dbcf811,184.183.255.143
+2023-07-03 02:57:18,INFO,UserLoginFailure,Failed Login Attempt,25049,508b2e86-2ef9-4d33-a1c1-5a7d0aa27e6d,113.115.68.247
+2023-12-24 22:47:59,WARN,NewAccount,Account Creation,13030,7f7f8149-6ab3-473c-8aad-09f65b9dcdd8,201.158.156.14
+2023-08-23 02:05:44,INFO,NetworkService,System Change for user 76972.,90703,bca5fef3-0763-42ba-b2a7-e3ac83896317,132.102.120.192
+2023-05-31 21:33:22,WARN,FileService,Password Change for user 88905.,47072,5a0ff365-0891-46e3-b283-334e2925d566,141.195.92.225
+2023-08-22 15:59:45,INFO,AccountService,Account Deletion for user 18958.,93769,9f01fd8f-a89e-44da-8d28-3d01c25d9258,117.233.223.6
+2023-01-01 03:04:49,WARN,AccountService,Password Change for user 57010.,64576,53ed1467-6fbc-4e38-844f-4f51816e54f0,12.11.219.135
+2023-09-24 20:34:58,INFO,SystemService,Security Alert for user 14332.,41187,48c8ef80-4499-46a2-9d76-1fd4394a91f8,48.216.205.37
+2023-12-02 09:43:14,INFO,UserLoginSuccessful,User Login,85393,03150907-076b-4a4f-8b23-dee189e28204,160.42.2.146
+2023-11-26 06:52:27,WARN,FileService,File Operation for user 56824.,34030,68996515-9ed9-4a8f-b4ef-9c3e0c113382,84.32.38.43
+2023-04-06 14:44:31,INFO,AuthenticationService,Export of Data for user 35997.,65375,60ab3b1c-19ce-43db-a16c-afb681d31093,42.171.100.1
+2023-10-20 17:42:34,INFO,NewAccount,Account Creation,44860,6c1494f4-4e08-4fa2-9734-da8efa06de30,174.63.110.212
+2023-08-30 03:20:00,ERROR,UserLoginFailure,Failed Login Attempt,30211,05a6215f-9f03-45e5-84c1-54da0bce659d,54.73.90.251
+2023-11-14 09:22:34,WARN,AuthenticationService,Privilege Change for user 23086.,16775,5807e196-9939-4269-a2d4-ee771ae73d41,154.61.107.253
+2023-06-04 17:04:44,ERROR,AuthenticationService,File Operation for user 27951.,29516,cc405c87-4e34-4a61-9464-43959ad242c1,84.235.85.138
+2023-08-08 03:49:08,INFO,NetworkService,File Operation for user 34417.,83392,98b1380e-fdf1-495e-8461-350d6ffd5215,129.142.78.226
+2023-08-28 01:16:55,INFO,FileService,Export of Data for user 82812.,11939,59db14c0-fe32-491b-9f72-36c4f18bb990,167.74.102.42
+2023-04-26 03:41:56,WARN,UserLoginSuccessful,User Login,63250,58ab2181-ec17-483b-83dc-ace3366a785a,199.240.49.236
+2023-02-24 08:39:52,WARN,NewAccount,Account Creation,85269,5a02317a-49dd-4061-8f24-ec39ae952427,41.7.9.154
+2023-10-05 18:29:16,ERROR,AuthenticationService,Network Connection for user 93689.,59679,f19bb4b4-30e2-4c56-9c56-d983f914b6e6,28.126.91.204
+2023-05-04 16:25:44,ERROR,NewAccount,Account Creation,81386,2eabbf90-a20f-4697-b80b-8e5687574ba7,136.33.32.11
+2023-01-01 04:07:23,WARN,NewAccount,Account Creation,37444,372cf592-e564-4d9b-8d23-99bc2ce1f2c9,184.34.19.209
+2023-04-28 12:39:01,ERROR,FileService,Privilege Change for user 75687.,52283,129deb35-ebca-4b24-96fe-aef404fbcc2f,83.12.151.204
+2023-01-18 03:51:20,WARN,UserLoginFailure,Failed Login Attempt,80676,8e0a6e90-67d4-4375-9ca3-dce424ae93e5,80.12.55.156
+2023-11-17 17:20:46,INFO,AuthenticationService,User Logout for user 39032.,84996,9811bbcd-ee40-40ee-87dc-1db88fc3ea4d,174.103.226.62
+2023-05-02 11:33:52,WARN,FileService,File Operation for user 14279.,36443,9429fb27-7313-4967-b241-74d6171b4b4d,149.132.82.79
+2023-02-12 20:17:02,ERROR,NetworkService,Network Connection for user 65302.,75794,265dc9c2-0993-4a35-a3f8-4fd04941d925,141.118.160.62
+2023-08-02 19:41:55,INFO,FileService,User Logout for user 32674.,86847,8de401fd-6cb2-4966-9fa7-a7d18fd80f88,35.17.170.167
+2023-12-18 07:36:35,ERROR,FileService,Security Alert for user 81373.,13298,88858912-ee33-484c-b03d-48eca6909a54,176.119.177.91
+2023-05-01 03:01:05,INFO,FileService,System Change for user 24835.,15738,eddea6da-6e5c-4856-8e2e-1000d17b8f51,209.16.161.19
+2023-05-18 11:24:17,INFO,FileService,Security Alert for user 12522.,22668,b60e8eef-176d-4038-912a-14ab9240cea6,29.96.194.114
+2023-07-25 09:51:20,ERROR,PrivilegeService,Account Deletion for user 20687.,39066,4cc957ea-c6fb-48e4-8015-770ef01ed562,106.201.150.63
+2023-03-14 03:49:50,INFO,FileService,Password Change for user 38208.,80891,ea358903-f52b-49b5-823a-18440066d74e,117.94.99.89
+2023-12-08 05:03:51,WARN,NewAccount,Account Creation,52978,0a321bbf-261a-4d1b-ad5f-a21e003e5f69,69.145.182.138
+2023-02-21 19:17:11,INFO,AccountService,Password Change for user 85323.,32562,3311038b-2ed7-4149-8a01-598a2892ced8,142.241.168.55
+2023-10-18 08:24:09,WARN,SystemService,Privilege Change for user 24219.,16387,1aac6e03-2644-43dd-b240-38cebc278cb2,75.23.140.228
+2023-08-16 11:55:14,WARN,FileService,Password Change for user 15723.,26483,f4534135-74a7-4b88-b3ff-9c1135111ba1,116.74.242.196
+2023-09-10 09:19:36,WARN,AccountService,Network Connection for user 43390.,24340,63929c41-b25e-4c0f-92f8-5b61c5702d69,58.158.220.252
+2023-05-06 02:45:34,WARN,PrivilegeService,Accessed Sensitive Data for user 64791.,29640,8c15009c-e756-4592-a94b-9dd51cf67cd1,132.81.225.57
+2023-09-10 16:08:11,ERROR,FileService,Password Change for user 13354.,79008,0bfb5ea6-3dd8-49ad-ba38-c85e561f35a4,60.251.190.9
+2023-03-28 07:45:10,ERROR,NewAccount,Account Creation,44712,ce9595a4-c6da-438e-8369-eabf3793c4b8,39.86.176.172
+2023-11-05 23:20:33,ERROR,PrivilegeService,File Operation for user 57032.,35063,6580bb82-6c37-4415-aef2-135def882d85,50.53.8.23
+2023-07-29 15:02:27,WARN,AccountService,File Operation for user 31400.,39176,26f692d1-8ef7-4141-b2af-8bf942f7c80c,63.237.234.26
+2023-06-20 18:39:49,INFO,NetworkService,Privilege Change for user 25773.,72456,e7f0804f-58ce-4d8f-bdea-8de73e60feac,21.97.88.224
+2023-07-24 01:11:23,WARN,PrivilegeService,Security Alert for user 77342.,42616,f5ea5cc0-54e7-4e0d-bd10-b282c7f98d13,195.247.186.87
+2023-05-19 19:03:57,INFO,AuthenticationService,Security Alert for user 31220.,19218,5bad1e55-6178-426a-bf10-9118ce3d86e8,59.79.152.176
+2023-02-13 02:13:38,INFO,NetworkService,Accessed Sensitive Data for user 73291.,96203,7c45ec84-681a-447e-b7d1-d2c45759d771,61.166.150.139
+2023-01-02 02:07:41,INFO,NetworkService,Security Alert for user 67492.,42847,c01fd8cf-457d-4fc8-a9cc-d4b4418b0a90,176.141.198.84
+2023-03-09 02:16:13,ERROR,FileService,File Operation for user 61111.,24871,7bee0133-b5f7-4d9e-ae81-23b310b9dac3,172.77.125.144
+2023-11-20 01:50:22,INFO,AccountService,Privilege Change for user 46820.,39762,91c7f7b9-95a9-4c4e-af09-be5253024566,155.195.218.152
+2023-09-28 17:34:20,INFO,UserLoginFailure,Failed Login Attempt,12442,ba19ef06-6083-4d01-b87a-b7723428f6e3,66.237.205.1
+2023-06-26 00:04:42,INFO,AuthenticationService,System Change for user 76809.,63753,3b4e6a70-f318-4df6-9772-bc04699a10af,66.59.78.131
+2023-02-25 08:43:35,WARN,PrivilegeService,File Operation for user 23572.,94796,24186a4e-f30f-4cfb-91f4-34866097b6a6,57.247.28.65
+2023-03-31 11:36:50,ERROR,AccountService,Account Deletion for user 48829.,68339,538afb35-3cce-4d8d-ab44-7b63e2b53fa3,12.182.13.16
+2023-01-17 18:10:26,INFO,AccountService,Privilege Change for user 87251.,31039,bff27e40-d980-4aef-8086-57e37aabaa61,12.26.85.102
+2023-03-11 15:27:59,INFO,PrivilegeService,File Operation for user 30373.,76172,457af74b-e2af-44f9-b7ca-4042a31d026b,135.86.15.10
+2023-04-10 10:57:52,ERROR,NewAccount,Account Creation,81571,76ead06f-5f78-4c75-89e3-92e85dbe9c34,169.97.178.156
+2023-09-19 16:34:03,ERROR,UserLoginSuccessful,User Login,13142,6d27d315-be23-471e-b80a-16d4c370b2bc,61.72.90.27
+2023-11-03 15:12:11,ERROR,UserLoginFailure,Failed Login Attempt,91729,34ba9b3a-aacf-497f-80c0-e64691c1e347,107.59.221.250
+2023-11-06 06:22:05,WARN,FileService,File Operation for user 22954.,18980,1cccdf90-7658-41d2-bea4-d9eec951c9c3,208.180.118.234
+2023-09-04 22:09:59,INFO,AuthenticationService,Network Connection for user 78113.,83158,34dfdd3e-1159-43a3-ac90-3b7305fbadb7,160.5.91.11
+2023-09-19 05:44:02,ERROR,SystemService,Accessed Sensitive Data for user 17809.,19442,5650b0a7-d3c7-4873-91ae-067ccf77fc18,34.93.22.34
+2023-11-27 02:15:06,WARN,SystemService,Account Deletion for user 43420.,36016,3290f130-7977-43ac-8ca0-4e9465e94122,33.32.77.38
+2023-01-22 00:51:07,INFO,PrivilegeService,User Logout for user 60098.,42128,4612778a-a87d-4fc0-a1c4-e1dc2f9b832c,128.72.73.234
+2023-10-26 01:49:36,WARN,NewAccount,Account Creation,77209,5857ac95-92da-437b-ac31-5043db7dc73c,84.38.62.231
+2023-11-10 03:56:45,WARN,NewAccount,Account Creation,63683,df4eabbd-5b79-4a36-8f43-ca0f2dee7626,128.127.27.147
+2023-02-18 17:39:03,ERROR,FileService,Network Connection for user 79209.,44728,f8abf366-3204-42e1-b49c-52d51dc95bd0,206.102.28.34
+2023-03-03 13:25:41,INFO,FileService,System Change for user 91134.,84045,8c1eb769-a104-40e0-bdc7-a55542c0c495,136.127.212.74
+2023-12-14 15:53:16,INFO,NewAccount,Account Creation,22934,4e3be1ea-b0a4-49a8-bb0a-38b0c6c40e11,179.206.134.225
+2023-01-29 09:51:58,ERROR,FileService,File Operation for user 86343.,12654,5953618f-0abf-499b-bcf9-e1d0d1bbd3af,56.98.129.232
+2023-03-07 16:45:59,INFO,SystemService,System Change for user 69532.,58558,f801102a-1483-4e1b-8653-e4955cc0a5de,98.184.85.215
+2023-10-27 21:43:45,WARN,AuthenticationService,System Change for user 23426.,47890,b88ee3d1-e752-404f-82b7-43fbbcd23f58,108.54.198.19
+2023-01-17 05:42:05,INFO,AuthenticationService,Network Connection for user 69566.,61055,38598b5f-557f-4a73-ae82-09ca449a5504,164.249.117.100
+2023-07-26 19:36:12,ERROR,NewAccount,Account Creation,63413,f60db91a-4f05-43d3-88bf-536804ac485c,9.111.127.141
+2023-07-17 08:57:28,INFO,AccountService,System Change for user 29159.,88633,6a4b5add-47c6-40ef-8cea-7a1f7817040f,13.219.64.139
+2023-08-15 12:01:05,INFO,PrivilegeService,User Logout for user 43683.,56806,1cc3e5c7-775c-4171-8400-ee9efa4cb066,107.56.234.72
+2023-04-24 06:01:02,WARN,SystemService,File Operation for user 95777.,28331,43b60e34-341e-48ad-9c29-1e4962f28363,35.58.181.103
+2023-07-07 03:25:03,ERROR,AccountService,File Operation for user 32683.,69664,af143f22-bdab-413e-8d58-8b0071156bc1,1.60.165.5
+2023-04-13 09:16:20,WARN,NewAccount,Account Creation,20361,6b321e70-f227-4787-b83f-1251c3689e41,81.117.231.68
+2023-06-06 23:55:21,INFO,AuthenticationService,Privilege Change for user 53218.,37556,864d471c-7cf2-4963-b1dd-3f7137661d5b,174.24.139.10
+2023-01-15 20:26:11,WARN,PrivilegeService,System Change for user 47888.,63801,577a4ad2-65be-4285-b376-f48c0b6d54d3,88.121.57.52
+2023-04-12 09:59:40,INFO,AccountService,Accessed Sensitive Data for user 58430.,77172,121c06a3-669e-41ff-a8ec-dab437fe11a9,118.141.202.93
+2023-01-10 06:06:31,INFO,UserLoginFailure,Failed Login Attempt,51099,aec8741a-c95c-487e-9fdd-4db779535274,221.245.49.188
+2023-11-11 22:18:03,WARN,PrivilegeService,Account Deletion for user 87756.,75793,1ccf3b41-30a6-46fe-afe3-bdc5912727d1,73.219.134.93
+2023-01-15 01:33:24,WARN,NetworkService,Export of Data for user 63916.,85531,3d87207e-6a69-4840-b3fa-5b5ecb9dd409,105.197.107.122
+2023-06-13 03:55:23,ERROR,PrivilegeService,Export of Data for user 77095.,36766,a204cdf9-a909-4d71-8c1b-fe57f21aee5c,130.253.112.173
+2023-09-30 05:30:22,ERROR,FileService,Export of Data for user 13581.,48982,187d9258-c723-45f8-916b-ce747e754ead,138.6.136.102
+2023-01-22 18:16:58,ERROR,UserLoginSuccessful,User Login,82203,01c67134-4b71-49fc-88e2-b5802c33d17e,83.108.50.208
+2023-11-12 21:48:15,INFO,NetworkService,Account Deletion for user 45518.,96191,a45cff7d-f058-40f8-b313-2ce0663c7589,183.148.26.93
+2023-01-19 15:43:37,INFO,SystemService,Security Alert for user 71142.,38963,7a1698ee-f0c7-4909-ac35-d22cc80d1175,53.36.147.233
+2023-05-22 00:21:52,WARN,PrivilegeService,File Operation for user 62354.,47521,8b73c35b-0b57-405e-a364-d51e5c62d738,16.9.37.141
+2023-01-24 08:10:56,ERROR,AccountService,Export of Data for user 57156.,14796,fd8c3181-e49e-49f0-8ade-6ae1824723a3,61.72.126.243
+2023-08-10 13:03:19,INFO,NewAccount,Account Creation,61680,89b16497-3e24-4509-8ab9-ff4f689bae37,158.184.238.226
+2023-05-08 13:50:05,WARN,NetworkService,Privilege Change for user 33148.,34295,56988c27-e274-49ff-867e-2b6c98ceb312,23.247.245.53
+2023-12-15 19:22:37,INFO,FileService,File Operation for user 58407.,83573,4549fc3e-ee40-46e9-a902-333f87cb717d,98.63.55.185
+2023-04-05 09:35:49,INFO,UserLoginFailure,Failed Login Attempt,35110,b430ff12-0735-4cc7-8fbc-2a84437765bb,94.171.87.233
+2023-01-24 04:38:37,WARN,NewAccount,Account Creation,17548,415e71c7-12d4-47f1-a0ec-a4ccbab83f0d,85.63.23.42
+2023-04-04 01:27:19,INFO,UserLoginFailure,Failed Login Attempt,35139,82e0b91a-0059-46b5-9e3b-c17cafb37b2a,96.71.76.140
+2023-08-05 12:18:07,WARN,AccountService,Privilege Change for user 74367.,71602,b33aadcc-fc2a-4e5a-8dd0-54c838a3d537,59.38.40.112
+2023-03-05 06:05:01,WARN,PrivilegeService,Security Alert for user 49296.,47991,c782515e-6060-4a4f-916f-974fbc0b8b86,178.245.250.172
+2023-01-02 03:33:56,INFO,AuthenticationService,Account Deletion for user 49606.,97742,b14caa96-8bd0-42cf-9526-8a5915719bf2,41.32.228.120
+2023-10-17 18:47:19,WARN,AuthenticationService,System Change for user 55990.,56054,fbd60dca-bd95-45d0-85b4-c94a5f66fe0a,47.20.228.111
+2023-05-03 01:01:39,WARN,NewAccount,Account Creation,53876,89dcda4d-dfdb-4b3a-a238-78f58b46f071,78.68.58.88
+2023-01-23 05:59:47,ERROR,NewAccount,Account Creation,95598,b029e938-8a9c-406e-932d-e1ffaa42cba3,54.212.75.172
+2023-11-20 00:48:48,WARN,SystemService,Accessed Sensitive Data for user 71093.,83053,d402a48d-63b8-4061-a7b3-32fc962a587b,155.177.193.178
+2023-12-12 17:35:29,ERROR,AuthenticationService,Password Change for user 90490.,15278,0a865e2f-e3ac-4c23-aeea-81f0e29bbf5c,191.70.43.54
+2023-01-10 15:19:42,ERROR,SystemService,Security Alert for user 31077.,14888,215f21e2-1570-4114-b1f4-eff2004ea62e,124.200.102.137
+2023-03-05 13:51:08,INFO,AuthenticationService,Privilege Change for user 67135.,37723,4677fa8f-c884-4c67-aeb9-15fb9a963868,124.36.170.97
+2023-12-28 17:30:41,WARN,UserLoginFailure,Failed Login Attempt,68033,1cbc06a5-3647-4aec-a8bb-221b4f51236a,202.17.41.105
+2023-09-02 02:51:32,ERROR,UserLoginSuccessful,User Login,14768,aae932ac-fa81-4a03-9c95-433cf2ec65ad,33.130.218.154
+2023-08-14 13:27:02,INFO,SystemService,File Operation for user 24316.,14363,6e67b8c7-34c4-4f9a-a697-5aca544650b5,131.165.243.189
+2023-09-06 21:12:16,WARN,FileService,Privilege Change for user 91272.,12945,34015580-b191-4d35-b744-733b810b1921,189.175.30.120
+2023-09-12 16:21:35,WARN,UserLoginSuccessful,User Login,66007,c15f3737-c8f0-423e-ba57-42effd92b3fa,184.199.48.11
+2023-08-03 11:21:26,WARN,NetworkService,Network Connection for user 33348.,31744,aa9eef4d-86bd-4562-aeae-5c74d27a552e,36.11.85.149
+2023-03-25 12:41:50,WARN,PrivilegeService,Export of Data for user 72948.,70872,d23b39b0-9d80-43ba-b699-e82a2e6e4226,222.156.163.31
+2023-04-06 15:52:50,ERROR,AccountService,Security Alert for user 62419.,98591,5c91398d-cb85-49cc-9dcf-faa2f3e016e5,206.10.42.212
+2023-07-03 10:07:51,INFO,FileService,Network Connection for user 16077.,58570,ea02ba77-55ed-4d07-a1a3-d67edbaac10a,51.190.114.78
+2023-08-19 02:05:58,ERROR,PrivilegeService,Privilege Change for user 83762.,65597,a2076765-878c-4109-8cc2-070ca7d0d79a,155.57.123.107
+2023-09-04 07:52:31,WARN,NewAccount,Account Creation,81213,22a48ea1-6e01-44c4-a8f0-00e91fbb8d86,80.204.247.84
+2023-10-02 17:37:00,INFO,PrivilegeService,Privilege Change for user 84072.,20043,5abf969d-442d-4445-ba35-21650d3076c4,29.249.161.5
+2023-09-01 23:23:55,INFO,AuthenticationService,Privilege Change for user 94971.,61879,8d3e1771-25e5-42cd-8393-5792b2b977a7,54.15.42.241
+2023-10-30 11:28:10,INFO,UserLoginSuccessful,User Login,35855,6bc03dd9-4b9b-4fb4-8655-4cd5f8e58b7e,167.105.210.80
+2023-07-12 23:44:27,ERROR,PrivilegeService,Network Connection for user 23046.,32629,e8c71778-cb47-4809-85ed-4bdb2ead38d2,49.221.122.179
+2023-11-28 23:47:15,ERROR,NewAccount,Account Creation,38192,2194239e-01fe-4fd4-ad3a-f56e01a62974,205.77.95.47
+2023-03-28 14:51:32,WARN,AuthenticationService,Network Connection for user 86782.,66349,e997f6ec-eb69-4939-b1eb-36501feefc86,219.32.196.111
+2023-09-05 00:33:31,WARN,PrivilegeService,User Logout for user 63522.,16796,e614ae49-a468-4ba0-a889-107ce711a5be,56.249.207.155
+2023-03-20 12:22:25,ERROR,NewAccount,Account Creation,50889,c9f2888c-9cac-4108-a8ab-cffdcf4ab4bd,88.119.152.247
+2023-11-08 21:15:34,ERROR,NetworkService,Network Connection for user 52087.,46772,971efa13-5263-424c-8904-1d6ebf1335ca,30.185.221.161
+2023-03-28 07:08:25,ERROR,NewAccount,Account Creation,54398,f130738a-c249-483b-a490-174c4699d354,113.30.94.136
+2023-08-30 07:15:23,INFO,NetworkService,User Logout for user 39853.,52987,a2932359-1bcb-403c-9553-3111aaa1deff,41.204.29.40
+2023-07-23 13:36:26,INFO,SystemService,Accessed Sensitive Data for user 79533.,62800,bcf51080-fa86-42a0-b52b-5afb816e25f8,144.40.195.177
+2023-04-16 16:24:53,WARN,FileService,Security Alert for user 51876.,81072,49a5f4c8-a07e-4e12-8552-aefa680d1f53,94.96.15.11
+2023-09-01 17:58:39,ERROR,UserLoginSuccessful,User Login,63009,ede9f27a-01f9-4845-bc97-62dc484429a5,153.140.114.248
+2023-12-22 04:29:49,ERROR,SystemService,Network Connection for user 14477.,88439,494aee3b-fc10-4faa-a5b3-fc235b981571,191.235.164.234
+2023-11-14 13:40:45,INFO,NetworkService,System Change for user 52926.,45747,e67519c1-44c9-4159-91c5-d27dd7c9333c,150.242.241.129
+2023-03-07 01:16:23,WARN,NetworkService,File Operation for user 17221.,29288,f0cf4dac-a23f-48f4-9f5f-614c2a10e15e,66.92.135.138
+2023-10-08 14:39:08,INFO,SystemService,Accessed Sensitive Data for user 48994.,51197,e68c8523-c246-4fe9-b140-847f228d0cd6,124.162.177.21
+2023-10-03 23:35:14,INFO,NetworkService,User Logout for user 27867.,90310,8dab10fd-b84e-41e7-9a8b-22637b282762,218.242.187.86
+2023-07-27 14:12:04,INFO,UserLoginFailure,Failed Login Attempt,93505,c7b63a98-44ff-4215-af2c-052987200def,177.107.165.126
+2023-03-20 12:19:41,INFO,PrivilegeService,User Logout for user 52771.,76534,e8be5a4e-2ae7-4062-a580-3052bafc4e52,151.17.172.1
+2023-08-22 07:43:13,INFO,AuthenticationService,Password Change for user 98232.,90247,974a750e-8fce-4306-80c5-66ef1568cb74,123.142.221.30
+2023-08-31 02:22:30,WARN,NetworkService,Account Deletion for user 88628.,14947,f668e117-bde5-40ea-b5ba-678722aa621b,164.88.211.10
+2023-11-15 03:27:59,ERROR,NetworkService,Export of Data for user 37578.,39401,bfb37bbe-6daf-480e-938f-ce0d2b73ed46,167.213.95.93
+2023-01-12 12:03:49,WARN,PrivilegeService,Account Deletion for user 83026.,40778,2af5679d-ed83-4884-b285-29fda05c5912,12.71.219.102
+2023-10-30 03:04:42,INFO,AccountService,Accessed Sensitive Data for user 18080.,77738,9cbb2051-2c69-4cb9-acb5-eb0115a2ae9d,30.54.81.41
+2023-11-01 21:58:51,WARN,SystemService,Security Alert for user 67367.,86883,7b2b0393-a629-4d20-85d7-0800cf8fe014,29.57.78.14
+2023-09-08 08:05:33,ERROR,SystemService,Accessed Sensitive Data for user 76992.,89458,f564476c-51c3-45ac-8739-73d8c36a6495,33.33.88.56
+2023-09-10 08:09:52,INFO,UserLoginFailure,Failed Login Attempt,77582,cee8f448-ffe1-4e4c-b714-a63790ca1b66,196.136.230.240
+2023-03-08 14:05:16,WARN,NetworkService,Accessed Sensitive Data for user 84143.,90336,c4574103-14a4-41cd-b393-25d729013dcc,209.156.219.217
+2023-05-19 07:13:28,INFO,UserLoginSuccessful,User Login,95024,d623f864-a5ba-4b3e-a7c9-e873abf9da39,101.242.137.41
+2023-09-07 08:15:13,ERROR,AccountService,File Operation for user 78652.,44300,220b0d97-7916-4e2b-9f1a-09412240f713,49.146.224.126
+2023-08-25 16:55:23,ERROR,SystemService,Accessed Sensitive Data for user 15400.,66033,af1fb7b8-a6c1-44b3-aa60-20ded95e2ff5,56.150.37.86
+2023-02-19 05:47:00,WARN,PrivilegeService,Export of Data for user 30040.,66154,83336cc4-8880-406d-8ea7-3e46d92667b1,178.236.114.183
+2023-12-13 16:43:23,ERROR,PrivilegeService,Account Deletion for user 55210.,78025,6665df76-6cc4-4aa7-b8ff-6632c9189c7b,125.38.81.41
+2023-11-05 10:22:18,ERROR,NewAccount,Account Creation,34927,a60d2713-7874-4657-9362-c0afe0ebbe49,137.207.143.120
+2023-05-29 21:34:58,WARN,PrivilegeService,System Change for user 99055.,90545,bd3d6ebd-a484-4cb1-a6fa-c3d43b47a461,95.52.182.99
+2023-05-18 00:11:50,WARN,PrivilegeService,Account Deletion for user 45401.,54108,ed0c5f86-5e48-4011-9d4b-c062715a3a2f,172.72.255.158
+2023-04-24 16:54:27,INFO,UserLoginSuccessful,User Login,46765,07cf687f-82ba-4239-a512-4e3046c736e7,31.211.167.13
+2023-10-14 19:12:07,ERROR,UserLoginFailure,Failed Login Attempt,40300,a4b70737-7c21-43b5-bb5a-36ab21fd30b6,72.178.246.52
+2023-06-06 21:01:24,INFO,NewAccount,Account Creation,74655,cbb35588-015d-4149-9635-3d3907c8e74b,213.114.43.78
+2023-01-22 13:10:00,WARN,NewAccount,Account Creation,91633,4fd27beb-0278-4b96-8a85-03cb50970f66,162.54.120.158
+2023-12-30 08:17:18,ERROR,NetworkService,File Operation for user 18099.,28243,424370b6-85e9-4c10-8cff-acc7217d3caa,26.226.185.168
+2023-09-27 19:21:38,WARN,NewAccount,Account Creation,32426,84ae750a-674d-4013-a117-cba6e61f346c,115.40.7.96
+2023-01-04 10:50:46,ERROR,NetworkService,User Logout for user 34639.,26256,755d9bed-02ea-4e1f-a5aa-f2a9f8e5d1b2,81.22.107.158
+2023-03-14 12:09:52,ERROR,SystemService,Export of Data for user 87863.,46965,6db74759-fb87-4192-a0be-7ee35982e661,149.226.93.153
+2023-02-25 03:16:36,ERROR,PrivilegeService,Network Connection for user 23772.,17735,4c731ef0-d5be-47bc-bb82-ae088b75832a,151.10.5.48
+2023-02-13 05:34:20,ERROR,PrivilegeService,Password Change for user 70397.,69760,64d9208a-f471-4911-88ee-b44cf8bdadc9,152.43.14.105
+2023-08-11 20:13:12,ERROR,SystemService,System Change for user 80089.,92457,1aaa80b7-1ef4-4a12-bc4d-b6e15b6f5ad5,51.80.95.64
+2023-03-16 21:55:14,ERROR,AccountService,Privilege Change for user 93814.,16678,29c8b259-3f17-4ade-9626-49c3624c8c0c,166.178.194.141
+2023-05-28 14:24:08,ERROR,PrivilegeService,Password Change for user 65854.,67814,df96592f-0481-484b-a09a-4ebe58751186,211.206.227.251
+2023-04-07 00:06:49,INFO,UserLoginSuccessful,User Login,33752,5e6d571a-f7c1-4a11-90b4-651652b54934,53.136.133.148
+2023-01-05 14:46:38,ERROR,FileService,Network Connection for user 83721.,31734,0f6e42f6-e1be-4789-8fa7-49ebc2b4526b,81.182.102.158
+2023-10-11 06:39:33,ERROR,NetworkService,Privilege Change for user 45597.,73164,3037b10d-3281-4ed2-ae51-8632776d41cf,202.90.29.170
+2023-03-19 08:03:47,INFO,AuthenticationService,File Operation for user 53748.,84806,80e83915-f9bf-4d8d-9913-fa27fc6ab206,149.147.213.231
+2023-04-04 23:15:33,INFO,AuthenticationService,User Logout for user 24300.,65024,cbe42149-c46d-44cb-9a88-6f8ae7560611,73.45.81.242
+2023-02-04 03:30:58,ERROR,PrivilegeService,System Change for user 99618.,88866,4e4dcfa2-c3bf-460e-9f0e-5479a28395f7,27.166.189.28
+2023-05-21 19:47:46,INFO,AccountService,File Operation for user 15586.,33721,d7dfce46-c40e-47ac-b90a-b44f4c95f1e7,178.236.142.55
+2023-02-04 12:14:03,INFO,SystemService,File Operation for user 71672.,63315,21a1eaae-018e-4c31-8017-7150f895a129,141.8.130.188
+2023-08-10 07:40:30,INFO,NetworkService,Export of Data for user 29100.,29077,212147d6-0ac0-46d0-8eb3-4b95c0478d7d,78.162.79.183
+2023-03-03 18:09:01,WARN,SystemService,Security Alert for user 40356.,50522,f6d8bd35-a083-4229-9a18-ac57e937cc0b,54.49.152.180
+2023-01-11 19:02:09,ERROR,UserLoginFailure,Failed Login Attempt,18038,280683b0-6d01-4b56-9ea1-003c4d1817c8,120.7.158.201
+2023-01-10 08:49:57,ERROR,FileService,Accessed Sensitive Data for user 38318.,82905,d001e5c9-f1a8-46b5-b610-cc7645909eed,150.135.254.40
+2023-02-23 15:29:08,ERROR,AccountService,Password Change for user 84038.,18676,5ae19a68-f817-4ca3-b10f-f69126bbbcae,126.2.234.119
+2023-08-12 09:17:28,ERROR,UserLoginFailure,Failed Login Attempt,51427,e4d0d38b-4639-4b3c-a115-37c327d4003e,73.60.32.214
+2023-09-04 09:42:30,WARN,FileService,Security Alert for user 88787.,42828,ac4080ec-fb2a-4847-b945-242cf6628006,53.167.99.73
+2023-08-18 05:26:55,ERROR,AccountService,Accessed Sensitive Data for user 57653.,30730,aaf6a671-2454-4145-b8c8-8272df6740b4,193.150.79.80
+2023-11-12 10:21:24,ERROR,PrivilegeService,Privilege Change for user 43190.,92480,89c22a21-1d3d-4404-8582-10d64b6e06ae,21.56.17.191
+2023-06-06 21:44:48,WARN,UserLoginFailure,Failed Login Attempt,41132,81db3b4d-03b5-493c-a11d-e46b79f657c0,220.110.61.31
+2023-05-03 15:35:52,WARN,SystemService,Export of Data for user 93430.,82953,0c179bcb-bc79-44b1-9f36-d67f7ebd84e4,205.73.235.145
+2023-02-14 05:00:02,ERROR,NetworkService,Password Change for user 74479.,91166,78cb9792-cb2e-4b92-8959-0563c9151611,161.204.192.167
+2023-11-10 22:27:14,WARN,NewAccount,Account Creation,25394,35169696-b891-442a-884b-8f8bce76c69e,210.165.138.124
+2023-06-06 07:06:22,INFO,FileService,Password Change for user 33855.,58493,6cb962c6-6609-458a-88e0-ae7563371427,184.106.203.208
+2023-06-09 23:42:20,ERROR,NetworkService,User Logout for user 40175.,53367,a9b5d80b-39fb-4cf8-99f4-a516ea71a5f0,222.190.59.21
+2023-12-05 12:43:15,WARN,AuthenticationService,Account Deletion for user 12267.,64208,fe6f978c-c5cc-46e1-93d5-efc16443c310,33.81.107.87
+2023-02-19 08:13:24,WARN,NetworkService,Security Alert for user 87039.,15637,5b685765-f585-4b7a-bb99-4bb850786f95,173.209.122.4
+2023-09-20 18:57:03,WARN,PrivilegeService,Security Alert for user 78283.,62737,e11d3c4d-0cd5-426c-a9c8-7bbc00abbce9,38.212.2.132
+2023-12-05 20:23:56,WARN,AccountService,Password Change for user 57106.,88698,16622c0c-385b-487e-b4a1-efa6bd88076b,119.13.37.134
+2023-05-24 06:54:08,INFO,UserLoginSuccessful,User Login,43201,55479ff8-094d-4e37-bad4-e085701666eb,22.214.127.245
+2023-05-11 21:08:27,WARN,PrivilegeService,Accessed Sensitive Data for user 61355.,56075,a4e92e73-18b0-4e17-a213-1b692f01de00,132.189.119.175
+2023-09-20 01:35:52,WARN,AccountService,Security Alert for user 74530.,15634,45aba759-670d-4d88-9cc0-b9c2d46076b1,17.108.160.183
+2023-08-09 21:32:41,WARN,SystemService,Accessed Sensitive Data for user 26829.,30153,6b52c71b-abe4-4b84-bb5f-e5a9df560dea,120.119.127.228
+2023-10-01 22:49:54,INFO,AuthenticationService,Security Alert for user 51876.,41618,0aedec96-a61a-4726-9dea-90c3672ab388,27.95.158.80
+2023-02-18 11:13:14,INFO,UserLoginSuccessful,User Login,51348,7a51fb22-468b-4538-ac15-a9da5f01b52d,95.211.30.237
+2023-01-02 11:42:34,WARN,NewAccount,Account Creation,83154,6812062f-12e9-4aeb-a922-111f83841c54,43.135.209.8
+2023-12-28 06:33:43,ERROR,NetworkService,Privilege Change for user 20673.,96576,1af6a52b-a032-4553-887d-2e53090a3179,152.183.137.216
+2023-04-25 09:02:11,ERROR,AuthenticationService,File Operation for user 95415.,25388,29600a62-323c-457d-99d4-9a4a0a946817,11.195.85.183
+2023-06-21 23:36:43,WARN,NetworkService,Export of Data for user 42746.,20632,76b02242-d7b8-4d8b-89f4-6fb4e757e5e2,97.239.186.192
+2023-07-16 09:19:29,ERROR,PrivilegeService,Security Alert for user 77267.,51281,4b4009ba-5cc3-4dfd-aeb6-a75beca2d00a,32.255.33.28
+2023-10-08 22:09:55,WARN,UserLoginSuccessful,User Login,82003,4c3580f2-8a03-4f5b-9fea-1ee59a61dd2a,145.90.101.250
+2023-09-14 10:02:38,WARN,FileService,Export of Data for user 81850.,82831,25856df9-31b6-4707-8a0a-5410a06141ae,140.205.234.139
+2023-07-24 11:38:12,ERROR,AccountService,System Change for user 97792.,89102,a8561030-8a31-41bd-b6c8-2eea21cbce57,77.142.212.213
+2023-11-08 14:33:40,INFO,PrivilegeService,Accessed Sensitive Data for user 17486.,16279,b866b5c4-4815-4adf-b372-b37605be5a89,146.196.102.97
+2023-07-08 12:27:05,ERROR,AuthenticationService,Export of Data for user 49942.,40894,345da717-bfdf-4daf-a17a-c8db229f0e85,33.216.246.111
+2023-06-25 05:58:08,ERROR,UserLoginSuccessful,User Login,32461,2e4aa29f-7ebf-4f0d-9c8e-796b12b1fa77,142.64.80.221
+2023-07-19 22:03:00,WARN,PrivilegeService,Security Alert for user 84778.,68018,bc0aafc0-df37-404b-a754-b3a43590c9e2,116.121.133.139
+2023-08-30 09:24:54,WARN,NewAccount,Account Creation,78678,43b73070-f88b-44a9-823e-531067f6b62a,88.214.0.181
+2023-05-21 01:56:52,INFO,SystemService,Account Deletion for user 18455.,85249,0fbfae0e-117c-4b7f-9943-9cbd72b7dcbb,30.1.185.103
+2023-06-16 17:10:31,INFO,AuthenticationService,Security Alert for user 83689.,40075,599f9abe-5886-4067-9bde-a6777110dcac,201.227.148.147
+2023-01-09 01:01:48,WARN,NetworkService,User Logout for user 79519.,79738,eb00c3ce-b204-476d-9bd4-f9272680fd86,199.148.65.206
+2023-05-04 22:29:55,ERROR,AuthenticationService,File Operation for user 35117.,29301,9c94bdd6-fe7e-4939-b199-e7c0cae6cccc,49.177.28.156
+2023-12-12 14:44:05,ERROR,FileService,Network Connection for user 79477.,57987,526d7a3d-6973-44ef-8489-206805f116d8,198.104.123.119
+2023-10-25 17:10:00,ERROR,AccountService,Security Alert for user 61690.,21922,ac64d976-5df3-4cff-aa9e-66e9d5c0f293,105.186.55.70
+2023-02-08 05:13:18,ERROR,FileService,Security Alert for user 74926.,65594,59f4c6c9-300a-4301-aa31-3a2627a2c279,63.95.17.103
+2023-11-26 12:32:52,INFO,PrivilegeService,Password Change for user 62462.,50274,eea8d53d-e83f-4004-8a6e-47cfeaa668cc,48.145.162.48
+2023-04-05 15:46:25,ERROR,FileService,Export of Data for user 98851.,11977,2c013c3f-af06-4dee-b586-1a4e210c9608,19.34.30.167
+2023-06-08 02:35:24,WARN,AccountService,Privilege Change for user 55937.,61042,f34c5bbf-8a0a-40cd-bc48-7fda62866f55,176.224.97.255
+2023-02-27 15:54:47,INFO,FileService,Network Connection for user 52209.,21710,efcaa214-934b-40c4-a836-323bc71bf59e,102.246.203.140
+2023-03-29 01:02:56,WARN,FileService,Network Connection for user 29125.,15853,f021745f-28e4-40c1-b096-e3c90c32be1c,80.95.161.198
+2023-08-18 05:59:48,WARN,FileService,Privilege Change for user 14375.,40973,8b7c27b0-a872-49d5-ae92-aad49f2e547c,117.6.218.193
+2023-09-11 14:12:50,WARN,AuthenticationService,Password Change for user 22556.,42750,f93ceb9f-5b35-4dc1-9647-336a0358a95a,128.239.131.190
+2023-08-07 19:17:01,ERROR,PrivilegeService,Network Connection for user 49278.,35191,147760e3-3e0c-474b-8a3e-912ba8725ee4,81.226.166.11
+2023-01-19 00:47:38,ERROR,PrivilegeService,Network Connection for user 12132.,85421,3f35aab5-6fcf-41b1-810f-7f0998cf7554,147.226.53.248
+2023-02-23 07:08:40,INFO,NetworkService,System Change for user 75448.,69512,a5a9c423-48a7-407d-85cf-e08eb448b2c9,49.76.16.122
+2023-10-17 19:33:35,WARN,NetworkService,Accessed Sensitive Data for user 42029.,80738,916fe8da-593c-4e4d-b9d3-1fb82ac1d116,191.206.58.116
+2023-02-03 01:32:54,ERROR,FileService,Password Change for user 76833.,55302,9c0cb2ae-bf1a-4717-b3d1-41e8a55836e5,19.211.106.51
+2023-05-12 00:37:31,WARN,AccountService,File Operation for user 60208.,65722,560e9d88-42e1-48e8-b15c-d6d8f3834193,204.246.180.158
+2023-07-31 05:56:58,INFO,AuthenticationService,Password Change for user 15166.,40635,48280d2f-b9fe-407a-b596-821975920a94,77.154.196.104
+2023-11-22 12:26:28,INFO,PrivilegeService,Network Connection for user 13717.,49448,3aa32f31-6001-49a3-a157-8d262411b25e,170.242.6.191
+2023-08-22 02:29:16,WARN,UserLoginFailure,Failed Login Attempt,80784,26038c05-4bd8-41a2-b68b-ff60d1ec58a9,187.0.44.152
+2023-09-15 18:13:49,WARN,NetworkService,System Change for user 92666.,71886,3ccc1946-4440-4f79-8414-d641394302dc,183.188.193.228
+2023-12-09 00:32:01,INFO,SystemService,Network Connection for user 70640.,29820,7a3c2bb5-15c4-4d81-a061-2f47e0485c44,124.26.78.118
+2023-01-12 20:59:33,WARN,AccountService,User Logout for user 50523.,23892,b9de68cb-8d76-461d-ab5d-064ae6eeb12e,135.1.158.88
+2023-06-20 16:21:52,INFO,AuthenticationService,System Change for user 62479.,91798,781e2e82-ffb9-48c1-9979-8816da8e7e74,132.197.113.39
+2023-01-18 07:32:02,INFO,NetworkService,System Change for user 30621.,79093,6e24b0fe-eaa8-4b19-9bbf-983488673c73,25.166.188.202
+2023-11-10 13:21:20,ERROR,SystemService,Network Connection for user 44674.,76962,bdf6780d-e312-4503-9345-0fbe5015593b,107.89.134.182
+2023-04-11 15:59:46,WARN,UserLoginFailure,Failed Login Attempt,10557,9b0bbfcf-0573-472e-8a21-d2f2570658a3,203.37.101.43
+2023-09-28 19:57:15,INFO,PrivilegeService,Privilege Change for user 44714.,43538,000eed50-7f34-4227-bcd2-a2a1c8b0123a,173.229.133.33
+2023-03-06 07:28:47,INFO,UserLoginFailure,Failed Login Attempt,65722,a7590e3d-d7a2-41ca-8d0b-44e76ffb8fcc,186.132.150.156
+2023-08-10 20:12:18,WARN,AccountService,Network Connection for user 35040.,61193,d1a689d5-e11d-4e12-b719-5c8ebe39e83a,112.135.58.33
+2023-03-30 14:48:07,ERROR,NetworkService,Network Connection for user 93171.,16613,4cc8b5fc-8964-49f6-8f1e-a439fe25ad5b,210.16.90.63
+2023-08-12 19:46:52,WARN,NewAccount,Account Creation,47788,ae856650-f8f0-499d-bc6d-473cad8b8129,114.233.48.10
+2023-02-14 19:41:29,ERROR,UserLoginSuccessful,User Login,72232,eb97c637-d40d-4833-b1d2-d92391151d6e,5.163.77.82
+2023-01-15 21:49:34,WARN,NewAccount,Account Creation,87913,9a2f4228-781e-4ec5-8401-5db21df12509,72.42.192.47
+2023-08-01 06:48:30,ERROR,FileService,Account Deletion for user 21473.,18035,58a8e48b-48df-4abb-9ab8-6e1ea5efe945,74.154.9.7
+2023-11-02 12:09:29,INFO,AccountService,System Change for user 96613.,40455,5102e78b-6a32-4024-93fc-dc330f11ab2a,138.140.76.79
+2023-11-06 22:32:29,INFO,NetworkService,User Logout for user 96805.,69927,641c6930-f452-42cb-b2d5-d065ef9e71c9,215.129.220.16
+2023-08-15 06:55:31,INFO,PrivilegeService,Privilege Change for user 45833.,67573,c23b2a98-a89b-4b7e-bdb9-4ff8426a48a9,90.177.11.212
+2023-06-25 23:15:10,WARN,UserLoginFailure,Failed Login Attempt,13239,3301e7d2-a864-4389-9bb6-0ac30de68dd4,116.149.172.156
+2023-12-19 00:33:11,INFO,UserLoginSuccessful,User Login,63292,66cca707-4775-4f6d-b3d3-d87be72d5fc6,87.187.195.68
+2023-10-11 20:23:36,WARN,NetworkService,Privilege Change for user 98547.,87586,d3b8bfaa-9431-4ea3-8ddd-26c9deb62ae8,221.251.49.95
+2023-05-07 10:16:09,ERROR,FileService,Export of Data for user 46244.,25636,7d0c464c-759a-48cb-89c9-44eda1e22fee,6.92.154.88
+2023-10-07 14:19:40,ERROR,NewAccount,Account Creation,11784,900630ed-1c56-4b44-b16b-c628abea6b13,73.61.5.53
+2023-03-03 06:45:41,WARN,UserLoginFailure,Failed Login Attempt,39374,0f281492-1368-4d7a-9d33-61d347e07889,89.37.250.148
+2023-07-09 20:23:49,WARN,NetworkService,Network Connection for user 43355.,20279,c4776fe0-7f75-413a-9b1e-25489db7f0ce,170.86.91.221
+2023-06-13 11:25:57,INFO,AuthenticationService,User Logout for user 83640.,53300,8140b2e9-89f9-4c18-a34d-6ce0db740b71,17.92.27.144
+2023-08-23 11:59:06,INFO,FileService,Security Alert for user 64723.,66478,79eb3c1e-0e0e-49f7-a70b-16889b3b44d4,121.150.224.78
+2023-04-28 11:09:09,ERROR,FileService,Privilege Change for user 61857.,27995,c69413f1-5ac4-434f-8f33-647af91755e9,2.63.113.67
+2023-11-19 03:07:22,ERROR,AuthenticationService,Accessed Sensitive Data for user 14322.,52168,eda80343-b174-4a38-9c62-8d880a97d341,196.33.183.12
+2023-12-19 19:08:12,INFO,SystemService,Export of Data for user 44017.,39480,710646bb-5bde-43d3-96a2-88baa38f3df4,121.110.223.203
+2023-11-30 21:35:48,WARN,NewAccount,Account Creation,66029,b231bbc9-374d-48ef-beb8-ded058d0b89e,75.19.106.108
+2023-05-27 19:36:02,WARN,UserLoginSuccessful,User Login,61028,e8e81bbb-9f07-409a-999c-a561de5c2f50,98.49.129.230
+2023-03-18 16:24:52,ERROR,SystemService,Account Deletion for user 41557.,99602,123c7de1-f6f7-4722-81d6-9b2553251410,91.230.154.77
+2023-12-07 17:38:43,ERROR,AuthenticationService,Privilege Change for user 16107.,55832,a12c8eea-aa73-47ba-9d6a-e4eff987623c,13.68.153.8
+2023-09-02 21:00:58,INFO,AccountService,User Logout for user 18103.,53505,88f0eaa9-7417-4e16-ac4d-798ff8304eb6,55.151.3.164
+2023-04-24 15:17:55,WARN,NetworkService,Accessed Sensitive Data for user 79291.,37101,35a776c2-08ed-4de6-a02a-2da7ea81820a,135.243.132.25
+2023-06-11 01:07:26,WARN,NetworkService,System Change for user 47877.,17929,27b03a5d-81bb-45f9-b27b-c455d7fc1dd9,196.3.119.2
+2023-02-14 18:53:44,WARN,AccountService,Accessed Sensitive Data for user 92750.,15115,4ef2af7b-16c6-48dd-b62c-66bee0850dbc,123.153.122.119
+2023-05-15 16:13:52,ERROR,AuthenticationService,File Operation for user 60407.,77849,d81dc151-1c9d-4255-81f7-91aeefb1dc06,145.99.61.32
+2023-10-13 18:46:16,INFO,FileService,User Logout for user 91680.,15813,4ceea964-570a-4400-9b69-717ca8d50662,104.190.170.44
+2023-06-25 15:22:11,WARN,NetworkService,Accessed Sensitive Data for user 69578.,45090,be69a848-c6cf-4d73-9f1f-2fd1bf81b513,186.43.101.90
+2023-09-07 21:56:59,INFO,UserLoginFailure,Failed Login Attempt,90409,a67db020-6566-4483-8574-4f2e8c51e3d5,178.150.233.100
+2023-12-09 23:56:37,WARN,AccountService,Export of Data for user 78650.,32542,38d243b7-5f85-4f71-b446-6ee3b7124f0d,95.48.210.197
+2023-04-29 22:30:26,INFO,NetworkService,Security Alert for user 40642.,67245,e4c6a4a7-aebc-48f2-a38b-6435c0c8e7d1,190.166.18.195
+2023-08-20 17:30:00,ERROR,NetworkService,Network Connection for user 19398.,88815,5ba5a349-caca-41be-b4c7-bf4d8def5d1a,206.131.65.237
+2023-02-24 17:58:25,WARN,NewAccount,Account Creation,82391,a08c4136-e1da-4642-8de2-e594ba432b01,98.146.117.31
+2023-11-14 16:22:43,INFO,FileService,Privilege Change for user 91060.,24417,989810f2-d805-4e99-a66e-78b5feaa35b8,173.90.48.140
+2023-07-11 14:08:35,WARN,PrivilegeService,System Change for user 90635.,63787,7178be0e-8869-4554-b6f4-40f1ec6eda78,2.25.26.40
+2023-04-30 08:29:49,ERROR,AuthenticationService,Privilege Change for user 33594.,52443,a84ddce7-fbb5-4003-b6aa-9f249cd37f8e,172.131.112.180
+2023-01-01 03:10:29,ERROR,AuthenticationService,Account Deletion for user 36952.,82751,e9e1e1a8-6efb-4a46-81fa-7fa8486d72a4,156.195.129.149
+2023-12-13 10:42:20,WARN,AccountService,Accessed Sensitive Data for user 44369.,70034,ce5c5ad6-7931-4038-8179-86947060bbcb,47.75.232.199
+2023-01-04 22:37:41,WARN,AuthenticationService,Accessed Sensitive Data for user 99505.,10234,521e0a59-4ecf-4f55-a828-02fd499f1ce4,214.238.8.75
+2023-05-19 15:26:47,ERROR,SystemService,Account Deletion for user 12443.,10907,d3472391-6409-44e9-8056-49705e1d385f,101.53.179.190
+2023-03-04 17:38:52,ERROR,FileService,Password Change for user 89513.,11001,b63c4eab-3d52-491f-867c-2273cd186157,164.119.10.160
+2023-02-27 21:08:33,INFO,FileService,Account Deletion for user 62244.,20630,acd2afbd-3410-4e2a-a5c9-18c4ee7326c0,97.102.148.212
+2023-02-26 22:58:31,INFO,SystemService,Network Connection for user 23528.,63881,62348820-f5ef-4418-9011-e9fb80bbb2ac,155.73.184.135
+2023-05-04 00:22:34,WARN,NetworkService,Security Alert for user 62589.,80552,338c6ef8-3d4b-47ee-8d55-f1acb19a4bf4,137.115.255.105
+2023-12-04 12:06:48,INFO,SystemService,Privilege Change for user 80806.,73779,0034880a-accc-4028-a6ad-bfb1741b54ad,181.190.229.163
+2023-06-07 18:24:26,INFO,UserLoginFailure,Failed Login Attempt,87692,089b1dfe-d11b-4e7a-bb60-8d21ea99dd84,97.74.177.92
+2023-11-04 07:39:51,INFO,NewAccount,Account Creation,88340,63a909ff-3adb-46a3-b0bf-84d44951ea3e,185.186.75.237
+2023-06-12 18:42:17,WARN,PrivilegeService,Export of Data for user 35877.,64444,0da6c0f0-0776-4fc8-9f46-75450c3662eb,27.70.241.47
+2023-05-26 03:55:40,INFO,SystemService,File Operation for user 87769.,18740,de0fce86-7533-4d0d-b053-1bff1fdc403a,64.15.62.129
+2023-02-20 04:58:29,WARN,NewAccount,Account Creation,45614,3b7a585b-6efd-4623-91e9-ce2153ae0337,185.214.245.220
+2023-11-07 00:13:32,ERROR,AccountService,Security Alert for user 44801.,70565,735a766a-d121-4856-9a17-b5195fe06b09,162.228.161.114
+2023-10-27 12:22:09,WARN,FileService,Accessed Sensitive Data for user 41083.,74442,fed58408-193e-4465-bae1-26889f06b32d,222.59.125.200
+2023-06-04 05:13:57,INFO,NetworkService,User Logout for user 21657.,34853,050bfa1c-7630-42a5-a066-3200d314b339,149.34.205.216
+2023-02-28 21:28:59,WARN,FileService,Password Change for user 52241.,83563,d05799c6-9434-4747-af5c-f8aaec722f9d,186.168.248.199
+2023-04-08 00:36:30,WARN,AuthenticationService,Password Change for user 37879.,72971,99413d03-83cf-44be-bf06-5dd9cbef5ecf,112.139.190.177
+2023-11-11 00:40:42,ERROR,UserLoginFailure,Failed Login Attempt,67853,adb593f3-f0f5-4233-be6d-53327c1e5383,163.191.120.181
+2023-03-09 22:04:04,WARN,PrivilegeService,File Operation for user 30431.,52094,374255fb-8003-4f9f-bdd3-cf6bbdfdf856,148.234.149.40
+2023-09-17 05:43:11,INFO,FileService,File Operation for user 33824.,95415,8f661c1e-c9db-492b-a329-5543076a2567,222.21.57.73
+2023-11-14 08:02:51,WARN,UserLoginFailure,Failed Login Attempt,44323,e4b3bdd3-1f90-460d-b397-b8cc1be431b2,14.68.220.167
+2023-06-23 13:22:01,WARN,FileService,User Logout for user 91565.,67882,80af4579-9e6f-4d60-a5e3-4051c073b565,189.248.211.57
+2023-04-11 04:44:39,ERROR,UserLoginFailure,Failed Login Attempt,30870,a85b6147-11a3-477d-89a1-03ff425b9e97,210.37.162.201
+2023-01-23 06:28:23,ERROR,AccountService,Password Change for user 97729.,74721,5c321585-c4e0-4ba1-b723-301b5fa509c5,46.45.140.13
+2023-02-24 06:26:47,WARN,PrivilegeService,Network Connection for user 99125.,38979,0542cd08-9403-48d6-b8cc-e9f4ca1be29f,26.10.11.131
+2023-12-21 18:14:07,ERROR,NetworkService,System Change for user 19320.,57524,1827e62d-7184-4867-8729-c73c44f67ce8,145.13.13.27
+2023-11-08 04:41:32,WARN,AuthenticationService,Accessed Sensitive Data for user 50404.,88286,4ae6475c-c009-4fc0-a127-4e622adfc73c,175.185.246.211
+2023-02-11 04:52:09,INFO,AuthenticationService,File Operation for user 70939.,98973,db907c71-2c63-4ecd-9b3c-dd5756bf0d85,3.33.75.185
+2023-06-16 03:13:54,INFO,AuthenticationService,Export of Data for user 53549.,91751,86c0ffc4-7b46-4d24-a16d-fda38a3851cd,162.42.252.251
+2023-06-04 09:51:18,ERROR,SystemService,Security Alert for user 63256.,29343,91417efa-b3d2-4471-8b8e-a5511cab89dd,31.169.121.25
+2023-04-29 05:49:47,INFO,FileService,Accessed Sensitive Data for user 65925.,50287,4514749b-9ea4-4f07-ac60-46865377e07d,192.37.161.166
+2023-08-21 00:48:22,ERROR,FileService,Security Alert for user 75855.,72776,e2ab3f8a-b355-44d3-acfa-c8f1db83ffee,12.239.39.219
+2023-08-25 00:44:00,WARN,SystemService,Accessed Sensitive Data for user 59435.,48705,9773e9f7-1d27-41ba-b11f-c5751c894693,157.14.247.238
+2023-01-21 19:14:08,ERROR,FileService,Account Deletion for user 67686.,91216,07634afa-74e3-4c6b-aecd-715a43d42273,156.242.179.40
+2023-03-25 04:22:25,INFO,AuthenticationService,Security Alert for user 14462.,58233,d74e3280-59a1-4fdd-a6a4-8cc87c347671,221.223.34.89
+2023-06-11 08:24:35,ERROR,UserLoginSuccessful,User Login,31101,ea23abe7-9b2f-4bd4-b9ec-3f2a79dc6160,211.91.208.155
+2023-08-25 15:46:04,ERROR,NetworkService,System Change for user 76588.,18899,40f8dd53-b4a8-4f26-923a-074bbc316766,30.25.18.64
+2023-10-12 03:21:42,WARN,FileService,Export of Data for user 67137.,69865,ea849172-0bde-4aa0-813b-f1669a02fd4e,218.73.107.228
+2023-02-22 19:10:17,ERROR,NetworkService,Accessed Sensitive Data for user 73953.,55971,731d4314-9e1a-4521-a7db-0ed0e532e006,111.161.83.91
+2023-12-17 13:16:48,WARN,PrivilegeService,File Operation for user 45103.,83422,13bfcffe-ad94-4dda-87db-48e844092446,139.0.195.46
+2023-01-14 07:45:15,ERROR,AuthenticationService,System Change for user 51311.,46742,de37244c-0e3e-4ec2-a125-c5b2098cc122,164.161.142.200
+2023-04-16 07:17:29,INFO,SystemService,Network Connection for user 74789.,30109,0a613e16-e830-46b6-aa82-564dfdd69acc,161.50.149.103
+2023-05-07 23:54:08,WARN,AuthenticationService,Export of Data for user 34004.,26710,05736f0e-74c9-4f1b-a145-0f51ea45ae1c,87.90.90.27
+2023-09-07 13:40:17,WARN,NetworkService,System Change for user 87833.,45841,3a396ed2-60fc-4152-ba48-4c1e53354f5b,202.200.216.148
+2023-01-31 19:35:03,INFO,FileService,Account Deletion for user 69214.,16597,4fb7d519-aaea-4fa3-b74a-afd97c281e85,107.156.143.230
+2023-02-21 12:04:42,ERROR,SystemService,Security Alert for user 51717.,78471,30e36045-0f5d-4c40-85f9-0df893f4ef3a,191.70.87.151
+2023-05-09 06:03:59,ERROR,PrivilegeService,Password Change for user 65444.,63817,a4043b0d-a07b-421d-aa12-e3cf58e51dac,70.133.254.103
+2023-08-19 15:03:38,INFO,PrivilegeService,Password Change for user 34141.,53467,4ce7eb70-e56d-4840-bb42-16ecaeaf94e8,22.5.244.80
+2023-03-09 17:34:39,INFO,AccountService,Security Alert for user 60579.,29829,3a408d56-e023-42aa-9ef0-b2b62e0f9198,183.203.139.187
+2023-11-24 09:20:55,ERROR,PrivilegeService,Security Alert for user 14027.,30885,20969842-4ef9-46b7-9af6-2c398d7291c8,101.85.239.47
+2023-08-28 06:47:08,ERROR,UserLoginSuccessful,User Login,37531,b571ea3b-570d-4dd4-bce6-9e33e9e5cd32,175.214.217.134
+2023-12-20 18:10:53,INFO,AccountService,File Operation for user 32050.,71784,86881cca-46fb-4a84-bdee-016764a481e5,129.192.227.109
+2023-01-04 09:08:46,INFO,PrivilegeService,File Operation for user 93039.,75718,a522a1b5-b978-4dab-8654-3d2102cdf98f,34.105.184.24
+2023-11-03 05:06:13,ERROR,UserLoginSuccessful,User Login,37216,0ef7e662-7fdc-49b3-852a-73e52bd645e6,78.78.93.82
+2023-06-08 13:39:19,ERROR,UserLoginSuccessful,User Login,18130,6be2fd6d-f19d-4774-81ca-128b60627b86,87.230.141.110
+2023-07-04 16:00:49,INFO,NewAccount,Account Creation,12386,fcb382be-8a89-40eb-aeda-3aa2f3438ddc,161.215.111.246
+2023-11-08 14:50:38,ERROR,AuthenticationService,Account Deletion for user 53782.,61472,e7f6898b-968e-4082-9fa5-28530bda0eb0,201.187.62.67
+2023-03-18 18:13:04,WARN,FileService,Accessed Sensitive Data for user 49982.,96193,d30e8dad-4268-4ab0-8b56-f57e82f49a65,136.224.186.19
+2023-10-15 04:00:16,WARN,FileService,Network Connection for user 87041.,63103,7c8ba033-52e4-434a-b00d-192b14d47d25,75.167.205.88
+2023-01-31 00:34:32,INFO,PrivilegeService,Privilege Change for user 95659.,40523,fa3d5ed6-eb6b-4d7c-a4f8-d03c89a1811e,139.233.69.48
+2023-03-06 13:56:07,WARN,NetworkService,Accessed Sensitive Data for user 33844.,54937,2fb38286-4884-4efe-ae21-da224150c6cd,69.191.47.60
+2023-09-02 16:57:16,INFO,NetworkService,Network Connection for user 89412.,19039,e14c6b85-d0fa-4616-87b1-d463979c897f,179.138.69.220
+2023-05-07 23:15:58,WARN,AuthenticationService,User Logout for user 98875.,91253,4df35e20-299d-4cff-9669-135b4ad3edc3,108.249.41.180
+2023-01-03 09:45:22,ERROR,NetworkService,Account Deletion for user 88796.,72099,698eb2e8-a91d-4f54-ac51-cf3d37f9d0fc,3.21.63.17
+2023-03-28 01:54:54,WARN,UserLoginFailure,Failed Login Attempt,15690,eece7f04-e5f7-4541-8925-20a835c8663d,132.155.232.165
+2023-04-17 18:39:34,INFO,NetworkService,System Change for user 27418.,85452,46dd95c7-f317-4f40-ad8a-94db0f1e3d8c,76.85.133.217
+2023-07-07 22:00:19,INFO,AuthenticationService,System Change for user 86061.,14463,9134f368-42dc-4c09-a091-a3cfa916e0ee,141.241.33.191
+2023-09-03 04:59:00,WARN,AccountService,Network Connection for user 63472.,54085,6f2fc421-a8c5-482b-bfac-c0fa29b5ff53,5.56.183.160
+2023-12-30 21:56:57,ERROR,NewAccount,Account Creation,45142,3a92b406-fa1f-4759-bccb-e92a91a63a9d,99.159.218.138
+2023-02-08 22:34:46,WARN,PrivilegeService,Network Connection for user 18708.,33226,88c816ca-4789-4d8b-b5fc-7f406359d321,146.222.81.170
+2023-08-29 12:56:42,INFO,FileService,Accessed Sensitive Data for user 58411.,36660,1a3098a9-1873-49ea-bbe8-8fbf65dcb661,220.179.154.126
+2023-11-18 09:27:43,WARN,PrivilegeService,User Logout for user 54250.,25764,27a90bf9-fe60-4d12-8960-7508a364ac56,154.214.53.122
+2023-02-02 14:34:45,ERROR,FileService,Security Alert for user 42582.,49595,b8dbaa5a-1b7c-4d7b-b0db-6b0ef89ca3fe,120.111.192.61
+2023-12-06 19:02:57,INFO,NewAccount,Account Creation,45507,74ff15ab-00a3-4e4e-b93d-5e24d68a3441,183.161.234.240
+2023-01-25 13:13:41,INFO,UserLoginSuccessful,User Login,30177,ee35e0b6-35ea-41db-afb5-fa8771d8fcd9,61.25.6.57
+2023-10-27 18:23:22,ERROR,NewAccount,Account Creation,37935,d726db26-5533-4e62-83a5-7f0aeead0934,122.34.124.24
+2023-04-04 07:20:52,ERROR,UserLoginFailure,Failed Login Attempt,54932,37d86ece-3d49-418e-9268-0756d9d6d319,135.182.8.222
+2023-07-21 09:43:04,WARN,PrivilegeService,Export of Data for user 77461.,82416,10f40ad5-950f-4912-b2fc-c5bb5e6b49af,27.44.216.204
+2023-12-24 02:34:26,ERROR,PrivilegeService,Security Alert for user 96619.,37280,f5ca8d97-84a3-417a-bd8b-9dfcfb58dbb4,220.243.212.98
+2023-03-30 11:38:38,ERROR,PrivilegeService,Export of Data for user 47152.,70962,bbbba648-fb52-450a-9183-3aedc6ebd240,216.133.186.217
+2023-02-16 11:05:06,ERROR,AuthenticationService,User Logout for user 63825.,58532,db2fe4f9-2670-4ebd-ac15-26960c209aea,46.8.12.177
+2023-03-01 00:03:34,WARN,AuthenticationService,Export of Data for user 25703.,82134,aa50a2ca-fe34-46db-9423-f812f12ebf83,13.38.224.70
+2023-03-13 05:02:19,ERROR,PrivilegeService,Export of Data for user 16934.,10469,a3c06846-11ed-4fa6-8510-7ad24b0b0002,68.177.249.7
+2023-09-03 04:43:03,INFO,AccountService,User Logout for user 82602.,35251,99864dd8-8138-42ce-b393-698541582e3d,46.49.158.144
+2023-06-24 04:25:54,WARN,AccountService,Export of Data for user 99288.,24923,137be0ae-6afc-4864-904a-653172073139,117.39.198.29
+2023-09-05 15:12:37,INFO,NetworkService,User Logout for user 32336.,26067,7a6272bd-685b-4092-9d98-de40faea4f11,65.29.192.229
+2023-07-25 05:10:38,WARN,FileService,Export of Data for user 17973.,11542,7950048c-9e83-4690-8aa5-11b5408a6fb5,29.139.235.223
+2023-02-03 08:06:43,ERROR,AuthenticationService,Password Change for user 70169.,23001,5553289b-d347-41f8-91bf-f9c0506b9b6a,18.71.158.91
+2023-09-23 00:45:59,INFO,PrivilegeService,File Operation for user 39910.,28551,4acc9639-5954-442f-9492-da631a0db0d0,131.96.124.113
+2023-10-03 04:24:08,WARN,PrivilegeService,Password Change for user 93051.,83325,9e286ae9-d3e7-4f10-b2f2-af8a812a539b,81.65.148.25
+2023-09-19 23:32:12,WARN,NetworkService,Accessed Sensitive Data for user 76915.,20561,d44dcfdc-c0a9-481e-833e-6e028048c5e5,61.31.238.213
+2023-11-02 23:53:39,WARN,PrivilegeService,User Logout for user 55888.,92135,83e5a9c2-b466-45b5-a9c2-366bcfa096ed,30.40.77.87
+2023-08-03 08:20:46,INFO,AccountService,User Logout for user 11317.,56850,69199ded-c88a-4377-b4d0-02e9d1afd1e8,148.164.34.158
+2023-10-18 05:30:51,WARN,PrivilegeService,Accessed Sensitive Data for user 96413.,42613,7868b1cf-e3af-446d-8563-376103fa25cd,99.15.225.100
+2023-04-03 02:56:18,ERROR,SystemService,Security Alert for user 31873.,64272,741a24c3-136b-447e-92e8-900010dee1a7,133.178.50.35
+2023-07-01 22:00:13,WARN,PrivilegeService,Account Deletion for user 47716.,84334,479c22df-1a10-42f6-b60c-16eb7e8b4270,27.59.41.138
+2023-08-26 04:06:49,INFO,AccountService,File Operation for user 95538.,76159,2a2a19b8-e961-4e36-a980-68bb83cabc77,191.133.48.127
+2023-05-06 07:56:06,WARN,UserLoginSuccessful,User Login,36350,4db4adf9-a581-441d-af1b-232a04e7deae,44.198.141.122
+2023-02-12 12:26:09,INFO,AuthenticationService,Security Alert for user 59649.,58017,34f1c8ab-ee97-41cf-85e6-d1e9606f0c01,168.81.69.60
+2023-06-13 15:39:42,INFO,UserLoginSuccessful,User Login,52864,e0f720b2-1b5e-4e85-bcba-1ccf5e15e963,8.112.60.150
+2023-06-18 10:59:01,INFO,NetworkService,Password Change for user 73948.,48603,b227ef7f-4636-4247-9a40-529c41b7816f,177.223.40.164
+2023-04-16 12:32:17,INFO,AccountService,Export of Data for user 73372.,52636,291e6331-2742-4be1-9c9c-a21636bff323,212.184.92.151
+2023-08-20 15:46:35,INFO,PrivilegeService,Export of Data for user 83201.,32323,d41462f4-77ec-4754-a396-b479aa0ac1f3,201.55.124.249
+2023-05-29 15:09:18,INFO,SystemService,Security Alert for user 98049.,90066,e8a052cb-86f1-473c-a233-ea9e2d455463,50.5.255.100
+2023-03-01 10:54:53,WARN,NewAccount,Account Creation,25518,4882fa34-6f67-4012-9603-9578b8502280,107.188.191.113
+2023-08-18 13:12:26,WARN,AuthenticationService,Accessed Sensitive Data for user 42020.,58567,439c5091-7d3b-4af2-a68e-a93cc5cb86da,179.98.124.28
+2023-05-09 09:09:16,INFO,FileService,Accessed Sensitive Data for user 73746.,12923,5e1da1c6-75cc-4b09-b0b2-2c143193c08f,88.244.53.183
+2023-05-02 13:27:00,ERROR,FileService,File Operation for user 26905.,30055,7f8363ce-7f3b-46f7-9289-ab5c246f2b1f,70.123.104.69
+2023-04-21 09:32:01,INFO,FileService,System Change for user 16763.,72123,5b3c7846-e726-4da3-bcf1-d3180570e064,90.239.125.46
+2023-03-20 08:23:10,ERROR,AccountService,File Operation for user 80185.,70816,881c5342-f247-4c17-aa58-a57a40da2a66,196.207.123.114
+2023-06-20 19:47:07,ERROR,PrivilegeService,Security Alert for user 82591.,46148,0ba4ca0f-c10f-476d-8701-7dee234c6b42,213.41.45.137
+2023-04-07 22:31:06,ERROR,SystemService,System Change for user 44314.,36375,195ea2d0-82dc-4ae4-9f77-5e3edfa6d1ad,92.224.69.219
+2023-12-23 10:54:33,ERROR,UserLoginSuccessful,User Login,25704,56540a03-8c5a-4ced-9651-89a8db3c0451,220.226.169.73
+2023-11-04 08:10:44,INFO,FileService,System Change for user 99421.,14046,857ac015-2bad-44e1-b7bf-f25fb191f94c,222.49.157.16
+2023-10-15 01:44:11,INFO,AuthenticationService,System Change for user 25643.,28469,080d52b3-004a-4aa2-9554-fc5c47ca26fd,11.127.79.171
+2023-11-30 00:58:11,ERROR,NetworkService,Account Deletion for user 78634.,61807,599650f6-59b6-4b9b-b93d-95abd9c0c06e,186.148.77.215
+2023-08-11 02:17:21,INFO,NewAccount,Account Creation,40870,20882aee-7fde-405f-8fa4-fa968412909c,2.116.39.35
+2023-10-23 01:18:03,INFO,SystemService,Network Connection for user 15081.,88554,4d7913bc-dab6-452e-b613-3e8abc2df9ca,29.236.122.151
+2023-03-13 14:10:35,WARN,NetworkService,System Change for user 86386.,36891,a046efb0-61a3-412f-9f8a-f8624adf75e1,51.150.242.76
+2023-09-18 23:04:31,ERROR,NewAccount,Account Creation,18395,262a397f-2fbf-47a3-a6ee-f72c50133a9d,149.135.226.222
+2023-04-27 09:32:54,WARN,NewAccount,Account Creation,69911,294398c1-e6df-4819-8e9e-1be028337e0a,36.192.233.88
+2023-10-17 21:09:37,WARN,AccountService,Accessed Sensitive Data for user 14787.,20649,957ace85-bb12-4ae1-a509-c7513ade0377,65.26.156.147
+2023-12-09 13:48:56,INFO,AuthenticationService,File Operation for user 28429.,48541,6c6e9fa6-1a90-4f16-80de-ff1ee3a4cfd2,118.57.111.17
+2023-07-16 02:42:28,ERROR,AccountService,User Logout for user 16259.,88161,7ebdad9e-cd5d-4032-866f-38a4dc165630,133.95.2.195
+2023-04-17 13:06:27,INFO,NetworkService,Network Connection for user 87031.,11883,9066450f-6ac9-424b-b7f6-c9f60f0bc21d,49.183.1.201
+2023-06-05 12:42:21,WARN,NewAccount,Account Creation,76651,d55598e9-c6fa-4af7-a8e3-cab818580f51,117.155.53.88
+2023-04-13 16:12:58,INFO,NetworkService,File Operation for user 72375.,39427,b7062f2a-4305-497e-8ae5-2d4696f22445,135.62.110.182
+2023-03-30 19:07:50,WARN,UserLoginFailure,Failed Login Attempt,39479,9b0d3ffd-3015-441f-be79-074968a352d4,213.210.102.221
+2023-05-26 13:21:11,WARN,PrivilegeService,Accessed Sensitive Data for user 79319.,43706,979f1b2f-4f31-4e73-be41-cc834c04e2de,104.192.106.55
+2023-12-01 15:30:43,INFO,FileService,System Change for user 62636.,57348,e89c995b-415f-4605-aa85-2fb603b507d2,217.6.124.152
+2023-03-15 13:44:27,INFO,PrivilegeService,System Change for user 63235.,68872,65994c44-cdcc-4bb2-953c-959aa3dfc645,56.141.3.143
+2023-04-27 23:23:05,INFO,AuthenticationService,Network Connection for user 44601.,62255,f985d028-38de-4877-80fd-e9eda26df39d,20.131.247.170
+2023-01-05 16:26:54,INFO,AccountService,User Logout for user 71372.,28379,8f8b8235-b761-471d-9a24-4ad83c4e43e2,203.44.210.159
+2023-08-28 09:31:07,INFO,NetworkService,Security Alert for user 92091.,70150,d6e6518e-0f16-44a9-b0ca-b09cc750be19,49.172.34.176
+2023-10-06 02:22:32,INFO,NetworkService,Accessed Sensitive Data for user 64802.,24146,e7fd7601-e791-46f1-b5de-57fd28dc0473,163.16.32.170
+2023-04-19 06:29:58,ERROR,UserLoginFailure,Failed Login Attempt,75267,e1a6c630-bc7c-4051-8f8f-a9661fa2b049,46.185.25.170
+2023-04-06 14:49:01,INFO,PrivilegeService,Password Change for user 63340.,24179,bb9e2329-1b70-4bb3-aaba-fb54502c0285,11.170.232.235
+2023-07-01 10:35:33,INFO,UserLoginFailure,Failed Login Attempt,38857,546a0dbc-5bfd-44b3-8ad4-751bdc50032f,184.113.99.248
+2023-05-06 08:15:28,INFO,FileService,Password Change for user 82286.,27002,c6e8e2ee-23c6-4bbf-86d6-8ff03c9433ec,134.8.34.80
+2023-10-04 12:47:29,INFO,AccountService,File Operation for user 21746.,22741,a842e0ae-70a7-4d95-acbd-a8f2491bc59e,13.131.123.208
+2023-09-27 14:02:40,ERROR,FileService,System Change for user 93186.,84077,41ba2045-d430-4ee9-b851-de3ade2f197c,21.216.155.232
+2023-04-24 23:47:43,ERROR,AccountService,Account Deletion for user 63281.,37676,b68d8386-fa87-4f49-90cc-49e379ad83ed,49.163.212.66
+2023-09-09 20:48:14,WARN,AuthenticationService,User Logout for user 93167.,40766,ee8d1a08-5ed0-4432-9893-431652898d5e,42.86.33.224
+2023-06-24 17:50:24,INFO,NetworkService,Security Alert for user 71963.,37387,ecc1c2e2-622b-4c79-bd89-c86bd9055c3d,70.23.77.72
+2023-01-19 02:26:39,INFO,NetworkService,File Operation for user 50537.,16726,6014aaa6-9a44-46f8-a89d-fa26c86a15e6,170.92.89.86
+2023-01-15 19:40:09,INFO,SystemService,Accessed Sensitive Data for user 66581.,86885,658d4fdb-7dac-4c88-9a0e-17d0cf459054,131.131.163.37
+2023-12-12 09:52:51,ERROR,PrivilegeService,Account Deletion for user 74608.,10023,de71f34f-ec59-476a-a20d-bc4eac996ea0,220.104.129.103
+2023-12-13 06:44:39,INFO,PrivilegeService,Security Alert for user 96851.,70634,eb0b79bf-fdde-43b9-ab65-baa542f11b08,47.31.174.54
+2023-01-04 04:15:18,INFO,AuthenticationService,System Change for user 37779.,12892,2f45bc6b-afc6-4cc8-a78a-78e98b6f7822,151.49.5.16
+2023-08-24 12:51:47,WARN,SystemService,Privilege Change for user 51157.,19091,06e0374a-c744-41e3-a4d1-9dae8e813d0a,102.187.42.184
+2023-03-14 11:16:44,INFO,AuthenticationService,User Logout for user 43352.,65592,d4d20464-9429-4b15-86c5-5f2dbe135bcb,82.121.201.183
+2023-05-17 00:57:41,INFO,NewAccount,Account Creation,10997,a95c7ff4-90f4-46db-a857-7afd19992682,55.231.209.41
+2023-12-11 08:00:25,WARN,NewAccount,Account Creation,58560,a1dae167-919b-473f-9bf2-b5e0ae6d5f55,11.115.214.119
+2023-03-25 20:44:53,ERROR,PrivilegeService,Password Change for user 87296.,75358,003bb74f-2f09-4e8a-8de0-f1e11193cb31,42.104.170.69
+2023-05-10 01:15:01,INFO,FileService,Password Change for user 77547.,29090,008cc659-fed5-4d80-b940-4fd16e9ebc69,55.80.34.30
+2023-04-10 01:25:54,INFO,AuthenticationService,Accessed Sensitive Data for user 30447.,40417,92a78887-4b4a-46ec-bf8f-c2fa2c0a0077,187.139.39.45
+2023-02-01 21:43:20,WARN,PrivilegeService,Accessed Sensitive Data for user 36823.,93839,5b8f640d-920f-46e3-8c7d-99f78d56cc46,171.40.212.8
+2023-06-12 08:01:38,INFO,SystemService,Privilege Change for user 65789.,28378,bca009a5-de93-4abb-b8e7-2e8f0a7fee28,14.254.184.104
+2023-07-13 12:38:16,WARN,AccountService,Account Deletion for user 48447.,32709,a1bc18b0-4f19-4222-ba03-f7543393c123,219.114.179.21
+2023-07-06 04:15:26,WARN,UserLoginFailure,Failed Login Attempt,24153,035f636d-3d6a-4fe6-9a95-141dbf0f7e04,130.69.52.126
+2023-02-11 17:05:22,ERROR,UserLoginFailure,Failed Login Attempt,68359,32ee822f-c9b3-4b99-ac53-ecac70f3b058,181.53.127.155
+2023-02-01 00:33:08,WARN,NetworkService,Network Connection for user 96149.,94649,e5a3b79c-379f-4577-9ffa-0822de2a8f07,54.31.99.44
+2023-07-23 03:29:56,WARN,UserLoginSuccessful,User Login,28533,38a779d3-c7fd-444a-a49c-289fddb4607f,101.211.72.103
+2023-10-19 20:22:03,WARN,FileService,Network Connection for user 39132.,57881,00b5c69c-24ee-4496-b349-9fff9499f5eb,73.64.170.113
+2023-08-01 19:18:04,INFO,UserLoginFailure,Failed Login Attempt,27830,9e1d5a85-92d5-4018-9366-d1e38987a86b,15.108.85.1
+2023-02-25 11:36:42,WARN,AuthenticationService,Account Deletion for user 72617.,71588,4b928f5b-fb73-45d9-98ad-b542eaffead1,181.168.3.56
+2023-10-25 13:28:09,WARN,AuthenticationService,Security Alert for user 64313.,61520,ceb9fb98-1bb8-4a69-baf1-bb13ad0682d1,47.156.157.120
+2023-06-03 16:36:31,ERROR,UserLoginFailure,Failed Login Attempt,41925,e360fca4-f83f-49a2-a5f1-08d55f0c5749,99.181.245.240
+2023-08-29 09:38:37,ERROR,SystemService,File Operation for user 62048.,79233,36b9990f-40cb-49a2-848c-35b6507e247b,142.186.18.191
+2023-06-25 03:24:19,WARN,UserLoginFailure,Failed Login Attempt,23941,da990839-4239-4f86-9e3d-d9e17027202d,204.219.196.234
+2023-04-25 11:02:49,INFO,PrivilegeService,Account Deletion for user 81258.,69143,c9ccda35-4b97-4ec8-a2bf-e97140850394,51.7.109.194
+2023-05-04 08:14:52,INFO,PrivilegeService,System Change for user 16953.,18254,f2a871ae-46e0-4321-8e10-9891a2dff540,18.245.247.102
+2023-12-17 21:54:32,ERROR,AuthenticationService,Account Deletion for user 35899.,20082,38beb8f5-96ff-4f0c-84e8-27aaba2ab862,19.51.230.247
+2023-11-06 07:26:09,ERROR,SystemService,Accessed Sensitive Data for user 68909.,89295,44f34429-ef0d-40c0-98c7-871ee1a84f01,175.134.132.109
+2023-08-04 23:39:55,WARN,AccountService,User Logout for user 19331.,81635,bc588217-e885-4b5f-96e7-317c451fff86,90.181.16.0
+2023-12-05 20:03:22,INFO,NewAccount,Account Creation,86832,2bb14f10-8116-49c7-9756-c9357ab3e2e1,19.145.191.188
+2023-09-23 03:50:52,ERROR,UserLoginSuccessful,User Login,12345,71b6d697-8dbe-4c25-8d47-7fa98902dbca,93.128.141.250
+2023-08-02 03:39:50,INFO,PrivilegeService,Export of Data for user 14619.,83959,76d6227c-5cc0-4388-b83e-5e1ca67a1044,96.75.166.98
+2023-09-01 02:15:52,INFO,FileService,File Operation for user 74806.,50525,f7e2999c-d24e-4be9-bdd1-82d2d3bc2ff7,7.26.59.67
+2023-09-30 20:43:50,ERROR,AuthenticationService,Network Connection for user 87412.,51452,50206c38-d3d7-414c-bcce-cf8d323ee4c6,74.5.228.31
+2023-06-03 17:15:58,INFO,AccountService,Export of Data for user 64872.,67720,9fcf8586-76aa-4db7-b483-1d2e31cfea26,114.53.229.80
+2023-11-03 12:43:47,ERROR,PrivilegeService,Network Connection for user 48317.,97143,baed81f9-c7c4-49f5-815a-432c26b0ce15,44.145.161.194
+2023-12-28 13:56:21,WARN,FileService,Accessed Sensitive Data for user 34371.,44096,04f8511b-7708-4685-8994-ae4d5027ba15,29.147.225.90
+2023-06-29 20:47:12,WARN,UserLoginSuccessful,User Login,70565,2360dc0c-2366-4f71-8b0e-619f0a7d1cac,142.197.19.36
+2023-02-01 07:12:49,WARN,AccountService,Account Deletion for user 74819.,11293,2709f7ef-1352-4fd0-8eb4-82441ac3b89b,123.89.51.173
+2023-07-14 07:08:22,ERROR,PrivilegeService,Export of Data for user 44347.,63069,f38ee98c-35ca-4326-894b-02efbec536b2,24.174.48.97
+2023-08-08 06:56:51,ERROR,SystemService,Security Alert for user 84829.,28942,8472bfe0-16ec-44e1-9176-1fd85e458c80,93.94.205.218
+2023-10-28 15:31:35,WARN,FileService,Account Deletion for user 56693.,47119,ce15041b-b04c-42a1-8a05-77c3e40754ba,92.73.160.161
+2023-03-25 21:26:05,INFO,AccountService,System Change for user 35080.,56902,12d57087-ca49-4747-afa1-121172138006,45.142.205.172
+2023-06-21 16:49:47,ERROR,UserLoginSuccessful,User Login,79783,b6ca1e88-ebe8-463c-b1ec-5ad77070dd79,11.119.56.72
+2023-11-04 12:16:51,WARN,NetworkService,System Change for user 64845.,51022,c4e2b07e-009d-4379-aa56-192aba376d9a,129.127.202.143
+2023-11-18 09:55:55,INFO,NetworkService,Privilege Change for user 18867.,88631,a17ff602-8582-4aa0-99c1-e22a1a3420ef,158.103.104.152
+2023-03-10 06:37:17,WARN,AuthenticationService,User Logout for user 74677.,19983,b3e62610-536e-403d-b919-a10e563bc7a9,43.159.90.230
+2023-07-30 19:20:41,WARN,PrivilegeService,Account Deletion for user 45835.,67007,aea4f6fe-860d-482d-a0c7-d1fc7397758b,20.201.74.117
+2023-04-23 05:45:28,WARN,AuthenticationService,Security Alert for user 97333.,37304,3a91f9cf-fd0d-4985-8e11-515b316f5caf,93.184.226.16
+2023-02-22 16:10:31,ERROR,SystemService,Export of Data for user 52461.,40736,886a316b-bf91-4d78-a761-cc094bec45b1,58.187.162.23
+2023-12-09 03:01:44,ERROR,AccountService,Accessed Sensitive Data for user 26932.,64920,36d7e897-fcf9-4c20-900b-025841eed4d2,113.129.149.29
+2023-10-06 13:55:46,WARN,AuthenticationService,File Operation for user 27584.,84674,74119ecd-346e-47be-ac46-5a29753c071e,8.208.22.76
+2023-09-17 10:08:20,INFO,NewAccount,Account Creation,59712,1b74576a-f7ea-4076-91db-6ccaadf94867,118.112.139.157
+2023-03-18 05:44:39,INFO,SystemService,Accessed Sensitive Data for user 37388.,28267,50783f65-e684-4d24-a502-c27938965351,111.112.247.110
+2023-09-06 21:09:45,WARN,AuthenticationService,File Operation for user 30131.,96975,bdcb3cad-7c00-4de1-8cc2-f90f71d4bab9,74.122.25.21
+2023-04-07 05:16:18,INFO,SystemService,Security Alert for user 76549.,27195,4110734b-4675-4d09-b585-4f03df8db568,87.77.10.124
+2023-05-27 17:09:46,ERROR,FileService,Export of Data for user 81986.,35321,1f3ced28-f186-42df-96cc-6ed81ded0a4d,223.106.211.211
+2023-07-30 00:44:39,WARN,AccountService,Password Change for user 76324.,12833,1208e6fb-8137-4db3-a6b3-019ded239e9b,188.61.220.94
+2023-04-23 12:30:39,INFO,UserLoginSuccessful,User Login,40787,814306e3-de7a-4480-862d-1094cbea45ca,190.54.216.93
+2023-10-01 21:24:57,ERROR,AccountService,System Change for user 42294.,92529,581b83c9-8860-4118-a392-cd193edd97b7,163.180.108.72
+2023-12-19 18:13:08,WARN,FileService,Privilege Change for user 56956.,31073,57521cfd-3239-400f-b88d-4fdabedd4661,12.140.193.212
+2023-01-01 18:57:45,WARN,PrivilegeService,File Operation for user 57068.,19331,31c89d08-4f0b-416f-91a2-736ac1bd7cfd,156.145.210.16
+2023-08-28 07:46:40,ERROR,AuthenticationService,User Logout for user 39513.,61006,e3dfda39-59dd-4fa3-8ac2-01a57ddd818c,45.102.160.105
+2023-03-02 12:38:04,ERROR,AccountService,System Change for user 23540.,18296,5a4f8d89-6aeb-41cd-89c3-0e42de96842e,136.179.118.212
+2023-10-13 16:50:56,WARN,FileService,Network Connection for user 76267.,79950,5609fe83-f1c0-48f2-b399-38e73e363d61,44.229.22.201
+2023-09-25 19:36:58,WARN,AccountService,File Operation for user 66920.,85275,7224005f-070b-4df1-8236-f6958c3fc24d,85.102.183.173
+2023-07-20 00:03:16,WARN,AccountService,System Change for user 60436.,62025,f3a56fdf-c826-4ed5-972a-ae6d0d23350c,147.249.125.206
+2023-10-30 17:47:26,INFO,SystemService,Security Alert for user 50547.,61169,080bd6bd-6f7c-494f-b141-4ba583917c50,161.170.28.79
+2023-06-29 01:31:17,WARN,PrivilegeService,Export of Data for user 52643.,64759,932e6537-a95b-4713-be2a-20e5a0e9d218,133.85.208.114
+2023-02-10 20:47:18,INFO,AuthenticationService,File Operation for user 50286.,51766,f024d78b-b239-4d74-8a45-c9262305d514,144.198.22.115
+2023-01-21 15:06:27,ERROR,AuthenticationService,Network Connection for user 42100.,29957,262bd7a2-c4f3-4bfa-b6d0-33eef05a43b2,82.62.160.106
+2023-12-13 06:01:41,WARN,FileService,System Change for user 57825.,56632,623bf731-fd25-4db6-8cd1-de9c44d26d8b,215.234.96.69
+2023-02-17 09:15:05,WARN,UserLoginFailure,Failed Login Attempt,36489,a73ad0dd-6dc5-462b-9dc2-2de52e797a2b,118.88.198.206
+2023-07-08 00:18:20,ERROR,NetworkService,Network Connection for user 21961.,50307,d6a97449-2d35-4d7b-98a8-009f7d9cc48b,2.116.182.239
+2023-10-20 11:34:59,INFO,UserLoginFailure,Failed Login Attempt,23765,4fd2b61b-9eb0-4bcf-9fa2-815b8ef301a1,208.108.84.3
+2023-04-16 07:30:51,INFO,SystemService,System Change for user 86859.,31679,c339587c-18c8-4041-90f7-8812c3b23303,115.75.101.157
+2023-10-15 08:35:54,INFO,PrivilegeService,Account Deletion for user 40324.,98343,c3a92e65-ccb6-4909-bdcd-e2e08038cb1b,151.242.157.160
+2023-03-13 18:10:38,WARN,UserLoginFailure,Failed Login Attempt,56388,cd6041a8-52e4-4bfa-b931-fa0fbf09b1a5,116.168.181.46
+2023-11-02 09:19:22,ERROR,AuthenticationService,Password Change for user 32169.,23802,1e858ffe-e3f3-4951-a8ff-bcfd4cbf10c3,22.198.153.239
+2023-05-05 05:24:08,ERROR,FileService,Export of Data for user 71038.,35520,3aa62086-b3e9-4e27-bb05-e925b4370547,14.151.51.52
+2023-02-07 07:04:48,INFO,PrivilegeService,Account Deletion for user 97391.,15442,2be98f81-52b2-4c61-9948-e66813f0e370,101.0.185.154
+2023-02-27 15:35:25,WARN,PrivilegeService,Security Alert for user 80289.,64233,9b0034d2-e0d3-40f2-b9d7-839d128c479c,147.238.132.213
+2023-01-24 20:02:26,INFO,SystemService,File Operation for user 37450.,63483,ad8fe5ba-89fb-4105-85c2-2a72a976939d,202.141.6.12
+2023-07-27 20:18:47,INFO,AuthenticationService,Account Deletion for user 80466.,39704,fe82e415-b8e9-4ce3-b3e2-3db1b4a15e04,204.202.229.1
+2023-07-18 16:27:28,ERROR,PrivilegeService,User Logout for user 54357.,79334,6c2c6945-8087-4469-bc5a-ea0595650c43,190.99.210.227
+2023-07-24 20:19:32,INFO,AuthenticationService,Accessed Sensitive Data for user 64261.,69272,4a7e102d-2e87-4d5e-9c40-d73005d037c9,222.148.155.114
+2023-04-22 00:57:50,INFO,AccountService,System Change for user 85222.,34535,1d27a9d0-61d6-455c-bf2a-996f9b53a2d2,133.253.127.173
+2023-06-08 19:10:14,ERROR,NewAccount,Account Creation,37394,0531c7ee-0c61-43df-8987-3743f20255fa,27.238.180.74
+2023-09-01 06:21:03,INFO,PrivilegeService,Privilege Change for user 47875.,92529,8705b7a4-f025-47bb-9e7d-8f8e6db14af9,112.101.41.71
+2023-03-14 04:23:18,WARN,NetworkService,Network Connection for user 60060.,41628,4d74cf65-7fec-464c-b7a7-37b57b24d020,63.100.55.145
+2023-08-23 01:26:38,INFO,NetworkService,Network Connection for user 46051.,85451,095700ad-6843-47b9-bed7-91dc4835cdf3,190.143.103.188
+2023-08-20 09:09:52,WARN,NetworkService,Privilege Change for user 48482.,21108,a51282d4-9080-47fa-8b78-5ea1b4fb4274,41.98.172.141
+2023-04-01 11:54:23,INFO,PrivilegeService,File Operation for user 99126.,93036,5c4e4bb3-bb60-4c41-ac3d-1ba5c0b5231c,149.119.223.193
+2023-07-26 17:51:21,ERROR,AuthenticationService,File Operation for user 30994.,94238,cec0d75f-1f1a-4b36-8923-e5063e4ab403,72.169.60.73
+2023-06-14 02:51:44,INFO,PrivilegeService,File Operation for user 75946.,67192,a2d133c3-52f6-4b18-a8c3-6d7c89eb1177,171.29.117.73
+2023-10-15 15:36:38,ERROR,AccountService,User Logout for user 93558.,43408,cfe085b9-eb24-4eff-884b-101d099c63d4,188.21.124.17
+2023-06-08 00:46:24,INFO,FileService,File Operation for user 77327.,25077,0dde03de-7d8f-4629-9807-bccd821cd4b4,217.139.204.255
+2023-01-10 07:04:18,ERROR,PrivilegeService,Export of Data for user 67616.,96595,54ea4221-4c30-42d7-81d7-fbfb2eed6a60,51.161.73.186
+2023-07-10 08:01:00,ERROR,AuthenticationService,Security Alert for user 76275.,56385,d03ac524-e923-4f13-ae25-6dcf51a75748,108.124.30.65
+2023-03-20 17:54:30,WARN,AccountService,System Change for user 39634.,85822,fc960432-6083-4263-9008-3c635eaadf01,151.100.65.208
+2023-04-14 04:52:44,WARN,SystemService,File Operation for user 81087.,57636,cf41964c-09bf-4df2-aa34-0a18e35f8514,47.246.255.222
+2023-07-20 20:28:11,INFO,UserLoginFailure,Failed Login Attempt,60085,1d33932f-8ef1-4fee-adaa-882bdcf6db06,190.22.102.215
+2023-04-30 14:56:01,WARN,FileService,Accessed Sensitive Data for user 81702.,79203,ad12873a-20b3-4d64-a9d5-a916cb8ebc17,130.201.235.88
+2023-07-29 01:19:54,WARN,PrivilegeService,Export of Data for user 64190.,88574,467c6e39-ead5-42f6-a652-b2b146340199,75.222.163.250
+2023-06-09 16:58:34,WARN,SystemService,File Operation for user 84965.,98598,e5ccb3ee-5b95-4359-9939-0eb268efa52b,188.138.147.215
+2023-12-15 00:10:22,WARN,PrivilegeService,File Operation for user 39075.,61151,4b8a0aaa-b553-4fa3-ba69-4ee5c08ac200,149.254.45.225
+2023-01-28 01:23:50,ERROR,NewAccount,Account Creation,95745,b34a4270-b9bb-4806-aaf7-16df70ddec4b,117.222.206.79
+2023-04-05 23:31:02,ERROR,NetworkService,Accessed Sensitive Data for user 83452.,65061,ad506ac1-0c1a-4c6e-800e-80e3d33d9fe3,187.138.123.108
+2023-08-23 05:11:40,ERROR,AuthenticationService,File Operation for user 68790.,13583,42b0b546-e2ab-4921-bc50-754db33121bc,46.118.153.219
+2023-05-04 08:39:42,INFO,UserLoginSuccessful,User Login,75409,ffa5ea9c-68ec-460b-a6ab-748f1b2e17c7,102.129.60.171
+2023-08-18 20:19:12,INFO,PrivilegeService,System Change for user 88457.,28343,67086148-5e31-45c5-9be0-16517ba4239f,176.56.122.136
+2023-02-19 09:29:01,ERROR,AuthenticationService,File Operation for user 43326.,48054,bd26a43a-210c-47ee-b715-927cb12705e7,161.169.146.213
+2023-08-13 05:54:27,WARN,FileService,Account Deletion for user 70308.,43418,e911d46b-8026-44be-b8e0-ee3b1fd126d8,90.142.67.253
+2023-12-29 11:20:35,INFO,PrivilegeService,File Operation for user 36147.,97531,48a341f8-9281-47bf-a6f6-b44333298a28,33.1.226.34
+2023-03-15 21:25:45,WARN,UserLoginSuccessful,User Login,20769,829fe443-d361-42e2-857e-01846eb10aa8,166.227.240.70
+2023-02-10 08:01:32,WARN,UserLoginSuccessful,User Login,24420,9259976a-bfd8-44fe-a7e5-387085af65fb,92.220.147.35
+2023-04-02 13:03:58,WARN,SystemService,File Operation for user 80167.,18035,09f42ee0-c8ba-49c8-8265-896d7a47f770,95.200.147.86
+2023-08-18 10:17:04,WARN,SystemService,Privilege Change for user 97971.,35542,14a6a06e-8ed7-4842-bf0a-3b9f4f9ec861,90.237.224.0
+2023-01-31 06:20:35,INFO,AccountService,Password Change for user 23868.,16214,ce3ea45c-adf3-484b-be58-978eace19328,124.191.214.121
+2023-11-07 04:30:44,ERROR,PrivilegeService,Privilege Change for user 46614.,39099,889b316c-a84f-4476-a927-025ee762e972,186.100.192.5
+2023-07-08 12:58:59,INFO,PrivilegeService,Privilege Change for user 46187.,31947,045451db-51de-429e-bebd-7ecf8287764d,75.212.131.129
+2023-03-19 17:49:25,WARN,UserLoginFailure,Failed Login Attempt,13789,01430894-2bf0-4737-8277-a0bf00d0c004,154.25.133.137
+2023-01-02 07:13:34,INFO,AccountService,User Logout for user 79927.,86638,e4d3ade4-43e6-432d-a5e8-667411391948,46.67.185.73
+2023-08-26 08:26:10,INFO,UserLoginSuccessful,User Login,72575,dda5119a-12f0-47ef-ac05-2511e4731163,86.146.246.138
+2023-05-22 11:31:16,ERROR,UserLoginFailure,Failed Login Attempt,14449,3feb5e1e-b3b6-4943-9658-1b17e65ea7ef,121.210.94.199
+2023-11-19 12:02:47,ERROR,UserLoginSuccessful,User Login,61126,220f3cd3-fc11-4971-ab47-94efb2a7bf34,187.17.123.102
+2023-04-04 23:54:35,INFO,PrivilegeService,Accessed Sensitive Data for user 77359.,48413,23548c51-c9c6-4cdc-86e3-dadf76f8d776,185.96.206.40
+2023-10-24 23:48:42,ERROR,AccountService,System Change for user 68263.,61669,fef77060-08ef-44e2-8c50-78d30218c6db,63.140.44.73
+2023-08-19 15:05:36,INFO,NetworkService,User Logout for user 74364.,44673,e2490f62-bf17-4ea3-bc1f-789b2296facd,209.246.93.145
+2023-12-03 04:51:51,ERROR,NewAccount,Account Creation,48021,b7544dba-2082-4409-8506-1674186a5604,79.36.82.81
+2023-02-03 04:25:22,WARN,AuthenticationService,Accessed Sensitive Data for user 34379.,38690,c3b1b158-fc1b-46a4-be83-70c13d3c1c19,43.243.41.9
+2023-10-11 04:09:45,INFO,FileService,Password Change for user 51112.,92764,3693cc5f-f5b1-49ae-bf17-8dbd7e4062ea,68.1.135.7
+2023-06-03 17:10:25,INFO,NewAccount,Account Creation,14825,692179ce-8d1c-41a2-b2c6-5a9bc5ad6fd9,140.80.100.85
+2023-01-06 10:25:55,ERROR,AuthenticationService,Network Connection for user 69620.,39479,51593f1e-8b54-4c4b-9929-ec9cf1b2c5e9,218.149.112.160
+2023-08-05 19:17:37,WARN,NewAccount,Account Creation,39372,4557b293-5019-46b4-b7b6-d292622a9e0c,49.231.99.77
+2023-08-04 00:54:54,ERROR,PrivilegeService,Account Deletion for user 96655.,97045,6c7dbaa0-e3af-4e23-9e93-3ea4c6064f03,153.82.177.68
+2023-12-29 11:00:36,WARN,SystemService,User Logout for user 19150.,16171,6f0e6531-7bcd-4969-878b-97699310091f,198.1.160.181
+2023-05-19 06:05:08,ERROR,FileService,Account Deletion for user 19710.,82853,90db4a26-f9b7-4f40-ad71-1e55251b60d7,213.236.20.86
+2023-10-01 01:13:12,ERROR,NewAccount,Account Creation,36808,f666bf4f-0175-4d2b-9fab-897a2e9b3b07,89.47.113.29
+2023-11-03 05:10:48,ERROR,AuthenticationService,Network Connection for user 76959.,74516,c5174cf9-3be4-4c9e-8007-099aab4a1bd2,185.97.38.232
+2023-08-13 14:42:35,ERROR,AccountService,System Change for user 38218.,29231,e420bc11-3a1e-4723-960d-bb7a0471557f,180.95.169.185
+2023-03-30 21:12:17,WARN,NetworkService,Account Deletion for user 84263.,48848,01490cd7-81c4-455b-bdd7-5d5436f59d8e,174.143.142.235
+2023-05-22 08:01:58,INFO,AuthenticationService,Network Connection for user 11378.,36945,54f0879c-fd76-48c4-a42c-fbd6215cc21f,211.233.182.9
+2023-12-19 22:45:05,INFO,NetworkService,Export of Data for user 43857.,60414,b8675141-3f91-4ea6-9acc-892c170321fb,51.66.175.240
+2023-03-16 23:42:22,ERROR,NetworkService,System Change for user 27189.,31817,9ee865bf-773f-445b-9ebe-eda2da15f32b,122.176.36.36
+2023-03-31 13:07:26,INFO,AuthenticationService,Accessed Sensitive Data for user 87553.,87978,bdd41e12-e270-4595-8360-a54d93a685b3,4.247.146.229
+2023-08-27 21:16:12,INFO,AuthenticationService,Accessed Sensitive Data for user 27444.,42266,fd49d671-6b48-418d-b290-ef2d71a9c702,6.121.213.222
+2023-03-23 02:15:28,WARN,AuthenticationService,File Operation for user 65304.,83219,c70c85e4-da06-44e3-bd3b-c7886ddcef49,38.218.34.117
+2023-06-03 20:49:19,INFO,SystemService,User Logout for user 94745.,61498,352354dc-56cc-47c0-9505-2bf5263fd6db,54.107.234.55
+2023-12-23 11:03:23,WARN,AuthenticationService,Account Deletion for user 52478.,11778,bd2dcb28-e637-48bb-8119-9a48ec66a71d,188.8.25.54
+2023-09-13 09:55:11,ERROR,AuthenticationService,Privilege Change for user 23500.,31071,c166ac17-db5a-47a5-a4a6-5c2284e5daa9,209.61.23.115
+2023-06-01 12:14:58,ERROR,AccountService,Network Connection for user 13187.,41720,5ccfc77e-31a4-494c-a5ba-b3760c1cfbea,61.24.124.208
+2023-10-03 00:30:53,INFO,NewAccount,Account Creation,21883,811ea903-04ce-4f67-ac35-7f78f0d6e023,82.13.207.181
+2023-01-17 21:25:02,WARN,NetworkService,Network Connection for user 25814.,98839,ad65247c-b467-4090-9c5e-c8e40b74fe9c,26.147.244.222
+2023-12-22 15:06:48,ERROR,FileService,Accessed Sensitive Data for user 85893.,18538,a19b2e8c-39a8-48e0-9f22-0e67542edb8c,78.134.16.101
+2023-02-20 10:09:45,ERROR,UserLoginSuccessful,User Login,88273,9410fba5-dc47-442e-a495-3d4fd461e27e,55.219.110.93
+2023-11-01 12:21:43,WARN,PrivilegeService,Account Deletion for user 36494.,96280,5d8f9733-3365-442e-9c90-d659370fd684,38.153.130.62
+2023-06-02 12:48:09,ERROR,SystemService,Export of Data for user 23972.,76936,80ff7d38-fbd6-42de-841c-7434753c25ad,160.68.99.9
+2023-02-24 01:22:27,ERROR,UserLoginSuccessful,User Login,96299,d8bc1f0e-60c5-4b0f-b79e-a6697d382103,83.236.167.103
+2023-10-13 13:33:47,ERROR,PrivilegeService,Privilege Change for user 98289.,15914,b06b62a0-ac16-4082-b0fa-e0a6d4e97094,78.49.234.57
+2023-12-11 17:48:03,ERROR,NewAccount,Account Creation,11800,4a85d18a-220e-4ec4-bea6-ed250e88e780,191.22.12.126
+2023-03-12 10:34:55,INFO,NewAccount,Account Creation,59769,03dd7932-fc8d-42e6-88a6-2f66ddb2afe4,205.203.152.182
+2023-07-21 02:07:10,WARN,NetworkService,Export of Data for user 59829.,97111,c3b3527a-4456-4cdc-a2b5-eaffb8a29790,62.124.1.37
+2023-03-09 14:19:00,ERROR,FileService,Export of Data for user 40416.,74660,683c460d-2970-4a57-970f-d90f8f8497c6,137.83.61.17
+2023-07-01 21:30:19,ERROR,AuthenticationService,File Operation for user 16077.,25973,caa34722-376a-43f2-bc5d-54251e0902ab,125.32.89.43
+2023-01-11 18:59:44,WARN,SystemService,Account Deletion for user 29051.,11761,c9fce573-be97-4091-bc4c-1c4e5231dc19,211.220.31.57
+2023-09-08 11:46:13,ERROR,UserLoginSuccessful,User Login,97624,6044defc-ee14-4b4e-a06b-4d1a3f106adc,99.162.65.152
+2023-09-13 00:56:55,INFO,NetworkService,Privilege Change for user 92361.,68925,7ba2552c-6479-4392-8797-f0e3286eaf69,80.154.178.253
+2023-01-25 05:11:22,INFO,SystemService,System Change for user 75364.,59475,a9a7f266-7f95-4939-8626-ba9fad932537,78.70.239.18
+2023-05-23 06:23:23,WARN,AccountService,Account Deletion for user 24428.,43538,d8f37fec-d25a-47e4-8916-6bac770195d6,20.14.7.109
+2023-01-22 23:03:43,ERROR,SystemService,Privilege Change for user 39028.,57224,67b880a5-efd4-4f26-b968-01b681533276,18.69.226.110
+2023-09-09 04:23:34,INFO,UserLoginFailure,Failed Login Attempt,58394,1e292c13-29d1-44ea-9010-c27654ab9256,198.224.139.61
+2023-09-16 17:22:48,INFO,PrivilegeService,Security Alert for user 30635.,44960,f91a2e81-1279-4556-8994-23be3d08a75e,201.14.249.123
+2023-10-19 10:34:26,INFO,FileService,Privilege Change for user 96830.,25360,7020d742-ccba-40ab-ab76-ceade4f8301c,92.42.36.132
+2023-08-22 21:57:46,ERROR,SystemService,Password Change for user 54435.,94504,a9f8b690-d96d-4854-ab13-3f6c48d2cd3d,194.136.185.84
+2023-06-03 11:04:11,ERROR,SystemService,File Operation for user 20821.,63654,0b7fe2bd-27af-486e-8f5e-416b6aa1c60d,115.187.85.6
+2023-07-19 23:55:39,INFO,NewAccount,Account Creation,74481,91f6a71d-022f-4f13-9457-f9bacd89452b,160.124.120.125
+2023-11-15 11:48:54,INFO,AccountService,Account Deletion for user 88704.,94635,85f93535-0646-4b28-9368-20a57dfa43c3,199.233.247.23
+2023-10-01 22:05:40,INFO,AuthenticationService,Security Alert for user 62759.,88190,5b364990-4817-48d1-88a4-7a63df14b8ed,192.44.25.185
+2023-10-11 17:35:09,INFO,UserLoginFailure,Failed Login Attempt,75212,371ce122-ed67-404f-ba47-df8829125eb4,135.194.20.227
+2023-04-12 19:52:42,INFO,NewAccount,Account Creation,84553,cfee1eb8-7f30-4c9c-b680-b9a5230066f6,172.118.213.81
+2023-04-15 15:36:37,INFO,UserLoginSuccessful,User Login,10895,cabd070f-0f33-40e3-bb4d-033812673ad2,20.57.89.233
+2023-07-05 09:44:44,INFO,NewAccount,Account Creation,34444,0bfb5e0a-d21b-4a72-ad98-e48aa10f9135,77.118.11.238
+2023-08-12 05:47:35,WARN,UserLoginSuccessful,User Login,99947,d892c210-e5a0-4226-8a2a-81669e717dac,9.107.169.201
+2023-11-20 04:35:42,INFO,NetworkService,Security Alert for user 50154.,87118,0d643e57-e576-4509-86d0-e25272151929,101.244.207.214
+2023-03-30 11:38:46,ERROR,AccountService,Accessed Sensitive Data for user 21493.,57148,f62171d3-a423-444f-8f4e-26f49fa9eb4f,69.212.39.121
+2023-05-06 06:43:32,INFO,NetworkService,Export of Data for user 59389.,73894,b66083ea-0641-4802-ab30-3489049c6927,143.8.179.132
+2023-01-22 21:22:12,ERROR,NetworkService,File Operation for user 65795.,92830,0e07e23e-5b70-48cc-8d57-5cabe5c7a790,180.11.33.146
+2023-09-20 13:48:48,INFO,PrivilegeService,Privilege Change for user 40897.,94627,cb102812-a154-47d5-bb68-a125da3bc6ec,134.68.77.20
+2023-09-10 23:09:46,ERROR,SystemService,Network Connection for user 62188.,92405,2cf034d3-a0b8-4ef9-bee4-8689dc6c04ee,97.175.19.177
+2023-12-07 14:34:46,ERROR,AccountService,Export of Data for user 85352.,55795,506ebd01-8903-4572-9b3b-885700a9637b,217.211.109.91
+2023-12-28 20:19:02,ERROR,FileService,User Logout for user 36100.,12546,9f255e0c-6a4b-4e75-a1d8-97c684587e1d,81.166.21.69
+2023-04-14 03:54:59,WARN,SystemService,User Logout for user 69600.,72483,78e74572-a800-4aed-b378-be752feca9a6,86.192.66.18
+2023-06-12 14:25:39,ERROR,SystemService,Account Deletion for user 10047.,95647,0e1f488a-a2b3-4934-92fe-10f1b291de81,195.217.54.90
+2023-07-10 22:21:10,ERROR,NetworkService,System Change for user 36198.,19194,3d3c06e6-5d74-4f1b-9985-f3ce72233935,128.146.125.60
+2023-06-19 12:22:16,INFO,PrivilegeService,User Logout for user 81806.,75889,8ac96f33-0fd7-471d-9e07-a8dd2e3ced48,189.20.119.177
+2023-07-04 09:53:56,WARN,NetworkService,Network Connection for user 52840.,75451,a1135373-b72e-4740-bc49-4411481f4f1e,78.160.46.130
+2023-11-13 10:14:53,WARN,SystemService,File Operation for user 36885.,98053,dc2e49f9-c5c0-4f6f-98f9-990a8e574f4d,56.69.239.219
+2023-09-23 14:53:52,ERROR,AuthenticationService,Export of Data for user 40142.,60270,f745ee6b-f9e8-412f-ac62-e4d12ab65d79,152.162.216.89
+2023-07-25 21:49:26,ERROR,NetworkService,System Change for user 14612.,91862,474a24eb-ccce-41c7-ad76-7e6e6afbea35,198.7.172.75
+2023-12-10 15:24:37,ERROR,AuthenticationService,Account Deletion for user 25683.,49212,9047ea0e-1c60-4c2a-959a-480b75951bac,176.122.29.134
+2023-10-29 16:37:32,ERROR,NewAccount,Account Creation,96981,90cd90f3-bb67-43fb-804c-8c67c5bdd086,134.169.168.8
+2023-02-08 09:09:48,ERROR,PrivilegeService,Network Connection for user 60568.,21361,412ef35d-ef8d-47b0-8c3e-ddf5c759f6ae,195.48.48.150
+2023-08-05 13:30:29,ERROR,PrivilegeService,Export of Data for user 21867.,90382,28ce6b77-1674-47d5-8f0d-3dcb5d684975,92.8.233.178
+2023-05-05 21:42:58,WARN,NewAccount,Account Creation,77285,d50e447b-15b3-4777-8f66-9e11fb4e7aba,146.104.181.90
+2023-05-27 17:06:53,WARN,UserLoginFailure,Failed Login Attempt,65836,629e3bfe-cd82-4f0c-b2be-27db60366d58,146.178.143.84
+2023-10-05 13:01:11,INFO,SystemService,Password Change for user 92294.,95379,b46defe3-b729-46f1-9191-fc1404d01c97,157.209.38.89
+2023-05-04 02:22:31,WARN,PrivilegeService,Password Change for user 88396.,31992,73ec31da-c666-4c73-97de-00966e8eff7d,17.81.105.79
+2023-06-03 20:38:16,WARN,SystemService,Network Connection for user 83697.,87359,ac9d51c2-9897-463a-927d-7335236fc6d4,150.144.65.44
+2023-12-06 17:30:55,WARN,SystemService,Account Deletion for user 56643.,69690,738782c6-65e3-4c08-a285-15f76c1a5eaf,140.161.253.5
+2023-01-04 15:45:37,WARN,AccountService,User Logout for user 40954.,79954,a9a82568-62fa-4efd-8a77-1e2444477374,176.189.251.108
+2023-05-29 09:27:12,INFO,PrivilegeService,File Operation for user 58821.,28569,ecd02749-c2c5-4355-ba02-1e09fcb8a730,60.240.160.173
+2023-06-09 03:29:00,WARN,SystemService,System Change for user 84980.,12697,375a50b8-2142-4f0b-a363-a938b42ea15d,31.73.206.249
+2023-03-31 00:57:00,INFO,UserLoginFailure,Failed Login Attempt,29986,46ca8b81-7d30-4729-9c39-ac86645f7832,34.71.41.110
+2023-08-02 21:05:39,INFO,AuthenticationService,User Logout for user 17028.,67535,f274ced0-362d-4a5c-81a1-2505b9c86b47,72.182.234.151
+2023-02-25 14:31:05,ERROR,NewAccount,Account Creation,80665,057f50d3-0978-4058-a862-95ef47c295c0,21.31.148.73
+2023-12-17 21:54:46,ERROR,NetworkService,Network Connection for user 99295.,75537,ea385c65-17cf-42d4-949f-8de94e880386,93.232.84.181
+2023-01-01 00:01:29,WARN,PrivilegeService,Accessed Sensitive Data for user 53251.,59495,6e1a50b3-d192-463b-9c0a-095380af99a6,135.156.98.87
+2023-11-30 17:57:22,ERROR,SystemService,Privilege Change for user 15170.,86743,a9298af7-a4f3-401e-90fb-455833526551,26.163.165.123
+2023-04-25 20:11:30,ERROR,PrivilegeService,Export of Data for user 84003.,64605,bab16fb4-997a-4dc5-ba4b-a669ff92772f,29.185.237.235
+2023-01-09 03:27:01,INFO,AuthenticationService,Network Connection for user 45373.,88805,efe69ef1-b812-47c6-83f0-3a363c448cd4,166.96.188.155
+2023-02-14 14:12:43,INFO,FileService,File Operation for user 86475.,12845,d629773d-2bc6-4490-a921-86b98ff20fc2,214.19.219.3
+2023-08-21 15:03:40,WARN,AccountService,File Operation for user 22510.,49835,bdf7c93f-c77b-42c9-8f33-8796528dd6a4,67.30.49.77
+2023-10-09 22:10:14,WARN,NewAccount,Account Creation,81714,37605d3b-a59c-4815-90b6-e1aefa694069,35.70.137.16
+2023-09-16 06:47:08,INFO,FileService,Network Connection for user 46840.,44790,ae994b16-660f-4af0-b7f0-0ddb1e5980e7,185.140.43.12
+2023-12-17 12:50:04,ERROR,AccountService,Accessed Sensitive Data for user 42970.,95745,0e100809-b9ff-4331-bb7a-9136d5531e59,32.246.11.69
+2023-03-01 11:55:47,ERROR,NetworkService,Privilege Change for user 66904.,98676,79cd3fce-a3c3-437d-8b47-5009ca3870ca,182.55.120.223
+2023-12-09 06:33:26,WARN,AuthenticationService,Security Alert for user 82199.,79248,c13d97e0-82e5-46a4-9b1b-16aa3d9d4316,105.188.217.26
+2023-05-19 18:31:56,WARN,PrivilegeService,System Change for user 44937.,12912,ecc587db-3252-4f44-be6d-eb28f75ed3af,2.51.85.26
+2023-07-13 15:34:41,INFO,AuthenticationService,Security Alert for user 71574.,44869,3c14b269-3e3e-4779-9f96-50b6b9ed29ba,115.59.28.234
+2023-09-15 18:41:15,INFO,AccountService,Privilege Change for user 54527.,44757,96eaa284-ce97-4691-82b0-d5d8de63a471,100.146.175.55
+2023-02-16 10:47:52,ERROR,FileService,Account Deletion for user 86604.,44923,9392e88b-070a-45f5-9145-8da7e80c1d35,116.106.88.154
+2023-10-26 20:41:36,ERROR,UserLoginFailure,Failed Login Attempt,74874,5d7e97e5-0057-4bb9-adf8-93a021eec8ce,165.175.183.225
+2023-06-14 19:28:13,ERROR,PrivilegeService,Privilege Change for user 19162.,76360,9d8b5660-e16a-4e42-bf88-8a52ce38e889,219.59.13.135
+2023-07-07 18:48:02,WARN,AccountService,Export of Data for user 60970.,59059,fe5ae152-85c4-44d5-a4a1-a74ea0c7dfaf,214.123.114.62
+2023-04-11 05:05:16,ERROR,AuthenticationService,System Change for user 25381.,89607,d9e3704e-09be-43e5-a871-e9af2ab0355d,196.42.213.112
+2023-11-08 16:03:59,ERROR,UserLoginSuccessful,User Login,99421,e294cf85-5d9c-45ff-b412-0e7d0708590f,50.177.76.105
+2023-10-19 17:00:23,ERROR,FileService,Privilege Change for user 38932.,25295,1ad1c156-4622-4142-ba1d-557db366e361,75.211.124.53
+2023-06-07 23:39:56,ERROR,PrivilegeService,File Operation for user 41806.,68034,024e4973-2b7b-491b-a002-06520c667bf3,115.5.90.53
+2023-04-08 14:03:56,WARN,PrivilegeService,File Operation for user 99153.,94696,eb85b0dc-29b2-434b-a9ec-a4eae9f19574,23.5.215.167
+2023-07-19 13:35:43,ERROR,SystemService,Password Change for user 37578.,66595,854fe7a8-3ad5-4226-bb5b-9fbc30eb999f,67.221.110.177
+2023-12-23 08:50:33,ERROR,AccountService,System Change for user 87172.,23742,387ed470-2faf-4b3c-acd0-11df545f7ba8,223.151.134.12
+2023-05-24 17:08:52,WARN,AccountService,File Operation for user 66646.,25840,f7d4e881-5dab-4d74-85f5-e7a720527721,192.226.150.172
+2023-02-24 17:07:00,ERROR,AuthenticationService,File Operation for user 73701.,46757,732a6fa1-8827-42e3-be8f-62db8a33eed8,43.208.250.153
+2023-09-15 04:59:35,INFO,AccountService,Network Connection for user 86506.,50054,52244e96-7e23-490c-9b34-718402c8624d,198.14.120.117
+2023-05-03 20:14:57,ERROR,SystemService,Accessed Sensitive Data for user 72257.,27607,d7319446-6e94-436f-a8d5-1cae17abe772,138.87.232.102
+2023-04-01 06:20:18,WARN,UserLoginSuccessful,User Login,63470,780e9a77-e4ef-4ba8-b01b-3c45ceaaa8a7,122.196.48.209
+2023-02-13 01:52:02,ERROR,UserLoginSuccessful,User Login,41713,398961f8-f979-468c-9a90-19b2c25740ba,68.181.141.7
+2023-01-18 15:28:35,WARN,AccountService,Privilege Change for user 67987.,53575,5f4fac06-1937-4c91-8260-b43adf21dde4,177.204.12.64
+2023-12-22 19:47:03,ERROR,NetworkService,Accessed Sensitive Data for user 70656.,49528,cffd391c-3649-4827-a203-ea156c18338a,154.91.177.72
+2023-03-29 00:39:17,ERROR,PrivilegeService,Password Change for user 70143.,62662,5d994ec2-dabf-4890-b15b-335cd99125c5,155.230.35.222
+2023-02-09 17:26:37,ERROR,PrivilegeService,System Change for user 98653.,61376,8cc94665-48f4-40f4-a7ab-863744794c76,180.69.147.62
+2023-07-29 01:55:17,WARN,PrivilegeService,User Logout for user 77503.,57699,558a791f-b219-4c5a-aa45-5715e79742df,207.190.144.215
+2023-01-06 00:47:36,INFO,NewAccount,Account Creation,40258,af935ba5-a8a2-4e52-b842-88b697fe2ff2,41.13.251.179
+2023-01-28 03:54:43,INFO,AccountService,Export of Data for user 82442.,19933,fbaed0e3-4bcb-4c15-b20a-a9b9b8ba0bb9,81.67.72.23
+2023-01-14 13:14:02,ERROR,AuthenticationService,Security Alert for user 65040.,59343,bb9e504d-a5d9-4287-8873-d8a8eb74c164,199.77.229.199
+2023-03-14 17:29:09,ERROR,AccountService,Network Connection for user 34105.,79663,a897a378-cfff-4108-9119-5975e34168e9,164.104.99.95
+2023-05-19 22:11:27,WARN,AuthenticationService,Account Deletion for user 61618.,70306,beedb428-28b1-438b-9a66-4702fd60ae9c,87.57.155.75
+2023-08-30 09:04:17,INFO,SystemService,Privilege Change for user 91165.,32838,e14ef221-fc3c-4539-94a6-92af81de2d72,103.90.68.58
+2023-06-23 20:51:26,ERROR,FileService,File Operation for user 63465.,81989,17b9c049-22ec-48b7-b82a-63f19c3b386f,109.64.16.102
+2023-12-21 05:30:03,WARN,NetworkService,Security Alert for user 87215.,96989,41fb2586-df27-4683-a10c-f09cffa6a09f,175.245.43.48
+2023-02-14 05:30:26,INFO,AuthenticationService,Password Change for user 52708.,11924,62f25d9e-06de-49e2-b148-c7bb551f1570,120.104.45.43
+2023-04-04 20:01:53,WARN,AccountService,Accessed Sensitive Data for user 49003.,12432,bafa7ac2-5c4e-4ed2-8ac7-bde93b078304,44.158.179.179
+2023-05-05 05:23:51,INFO,UserLoginFailure,Failed Login Attempt,96463,a487c20e-ea6f-48a0-a111-5182be914aed,5.206.172.168
+2023-03-21 06:30:49,WARN,PrivilegeService,Security Alert for user 80325.,24386,8a71a515-df73-45c1-9ae3-9357196fe71f,141.51.101.92
+2023-11-05 21:30:13,WARN,FileService,Password Change for user 36424.,83782,0910d19f-92fd-4ce9-a8d7-0832b2a3bcd0,172.205.25.145
+2023-02-18 08:17:02,ERROR,AuthenticationService,Export of Data for user 48868.,72448,632f87f9-cc61-41fa-a16c-690690cadc39,169.96.54.32
+2023-07-06 21:45:21,WARN,PrivilegeService,Accessed Sensitive Data for user 98778.,25512,76c68970-5fc5-418a-b1e0-f1e47a6c7cf7,33.33.46.88
+2023-02-21 05:11:02,WARN,FileService,Account Deletion for user 86093.,97081,4f7db131-c633-4326-913b-90312a125acc,100.202.74.31
+2023-05-12 05:43:15,WARN,NetworkService,Password Change for user 65258.,60912,750eb5e4-0130-4583-b3c8-62afa1586f80,89.63.254.5
+2023-12-13 09:27:24,WARN,NewAccount,Account Creation,20863,042c173f-f493-492c-ab4b-4863c6f563d1,22.177.95.92
+2023-03-09 02:34:10,WARN,AccountService,File Operation for user 47310.,14969,0c7b2b9e-da4d-4020-99c3-6c238aec3a1b,57.96.159.27
+2023-03-10 05:12:58,INFO,PrivilegeService,File Operation for user 84173.,93131,c9842e06-0aaa-4028-9cf6-894815d0ce30,58.248.252.81
+2023-05-20 15:37:26,INFO,PrivilegeService,File Operation for user 54809.,71086,cff15279-fb0d-4e02-a45b-360ad0184eef,131.111.26.83
+2023-10-22 02:16:54,ERROR,AccountService,Privilege Change for user 40056.,31990,55233c18-f6c9-49ae-adae-ed6f7f00719d,71.36.48.13
+2023-12-12 09:37:11,INFO,NewAccount,Account Creation,76608,48ef1dcf-00ac-49b3-88c8-d82bceb7f300,178.31.208.124
+2023-05-07 05:02:59,INFO,UserLoginSuccessful,User Login,60264,82871a35-62fa-4041-979a-5000de0d7fc8,24.104.129.76
+2023-12-09 00:21:01,ERROR,AuthenticationService,System Change for user 10434.,66492,1cb23158-1c6b-4239-9d90-98830db40c7f,214.92.240.133
+2023-09-07 14:46:43,INFO,AuthenticationService,Accessed Sensitive Data for user 70085.,84094,8ef49d0c-a8dc-46e8-ada0-51e3f38eee15,190.68.161.216
+2023-01-14 17:36:14,WARN,AuthenticationService,Export of Data for user 47968.,36901,50e839f5-0241-496b-a24f-76ed0fa8c9f1,91.243.217.132
+2023-11-06 23:48:03,WARN,PrivilegeService,Security Alert for user 47960.,32619,f387371e-d634-449c-b009-d36e1ab8fc2d,168.80.183.80
+2023-07-07 04:46:35,WARN,AuthenticationService,Accessed Sensitive Data for user 71236.,29346,8eb2888c-7c12-419c-b695-b5e517b4cf55,15.177.180.186
+2023-02-21 07:49:39,INFO,SystemService,File Operation for user 47519.,77121,ac86ea42-daa3-4e67-98bf-dd776377d60f,178.40.115.221
+2023-10-04 17:03:32,INFO,NewAccount,Account Creation,49757,7c66325c-7d01-4c53-899f-1b8fd01402fe,144.88.9.130
+2023-02-13 16:19:56,WARN,UserLoginSuccessful,User Login,10314,42210636-d425-455e-b0af-2b051d2e0ca0,118.196.133.234
+2023-01-25 16:33:24,INFO,AccountService,Password Change for user 93969.,76262,4c3648e7-b126-4954-beb9-7a2a8bec5ddb,110.231.119.146
+2023-12-05 20:53:02,ERROR,NewAccount,Account Creation,84652,c71dc013-d346-412e-a3d9-1451b95daef4,99.57.165.226
+2023-09-20 19:26:13,ERROR,FileService,Network Connection for user 23433.,91509,0ebca740-a47f-421c-9680-073c919f1c2f,156.172.48.219
+2023-03-22 21:57:11,WARN,NetworkService,Network Connection for user 23877.,33120,cc3b1b70-b1fc-451a-8295-54a07e6170b2,103.226.57.81
+2023-12-28 09:13:35,ERROR,NetworkService,Account Deletion for user 79352.,38579,536b7857-03d0-45ea-b215-48af6023603d,44.59.229.32
+2023-11-18 05:13:52,ERROR,NewAccount,Account Creation,18707,492efa14-daf1-47dd-b7bd-9b67d3bc9320,47.45.225.30
+2023-11-15 00:26:26,INFO,NewAccount,Account Creation,69601,efc19365-9cb6-41bf-8c04-d08898fd9990,6.177.165.131
+2023-05-24 19:26:46,INFO,AuthenticationService,Account Deletion for user 67463.,79799,42ac6da7-2a8a-4f6d-9a2c-884c3a7416ab,167.164.188.133
+2023-11-04 06:50:52,INFO,PrivilegeService,Network Connection for user 91435.,61097,fa836108-e76f-4df3-bb61-08df59b2dfd1,99.124.154.59
+2023-12-12 06:10:39,WARN,SystemService,Export of Data for user 54560.,41614,dbd4c3d6-ee3f-4886-b0f7-bfcc285e92a5,76.62.60.119
+2023-05-31 16:50:55,INFO,AccountService,Accessed Sensitive Data for user 55589.,40475,6789241b-8f6a-49e4-bde0-444e8b7801c8,16.213.66.40
+2023-01-19 12:53:39,WARN,NetworkService,Password Change for user 50192.,91613,bce55e45-803e-49b7-8e0e-ef76c17b98ba,159.68.151.6
+2023-10-08 10:17:04,WARN,UserLoginFailure,Failed Login Attempt,82821,0bcb1969-c2c0-4149-b8c8-05fd24383934,23.87.124.150
+2023-04-22 11:09:46,ERROR,FileService,Network Connection for user 18334.,38792,58980287-121e-4fb8-8d07-f1533cdb59f3,177.207.139.100
+2023-06-06 17:15:50,INFO,AuthenticationService,Account Deletion for user 65419.,40485,bbe7bcb3-8a79-4c46-a00b-ea3d8fdcdf22,142.202.220.29
+2023-08-29 09:48:52,ERROR,AuthenticationService,Network Connection for user 75939.,80761,69f77caf-7a57-4dbc-933f-25efe67b10a0,94.193.103.160
+2023-03-24 07:02:56,WARN,NewAccount,Account Creation,27409,efdab993-b997-4509-93ae-29e22416a48f,162.32.177.92
+2023-04-02 19:47:17,WARN,AuthenticationService,Accessed Sensitive Data for user 18853.,11671,4ea62a72-3a68-4608-95d8-b89a5885113e,198.24.3.196
+2023-11-04 21:34:05,INFO,UserLoginFailure,Failed Login Attempt,23986,11601b94-6a66-4877-9c14-c427a945eff1,17.202.66.245
+2023-08-19 20:37:38,ERROR,NewAccount,Account Creation,15193,7fb9bac0-06b7-47fd-9d5b-827d622da5c7,102.213.69.36
+2023-07-01 22:57:22,WARN,PrivilegeService,Account Deletion for user 48955.,33307,a8f34e31-6e2e-4fe6-9fd9-30311a10b3e8,34.212.158.68
+2023-03-10 05:21:22,WARN,NetworkService,Privilege Change for user 46828.,45290,a21b8b58-30a5-496d-a530-8080bc075298,73.97.160.204
+2023-10-26 19:20:41,WARN,PrivilegeService,Network Connection for user 15302.,35861,bce519da-3f57-4f17-83d3-a0509bbfa5a0,192.47.64.199
+2023-12-08 15:53:50,ERROR,NewAccount,Account Creation,53737,1a98e6b5-1c7a-42a2-8a0c-62607223f966,31.161.162.55
+2023-07-27 19:54:57,INFO,AuthenticationService,Privilege Change for user 61611.,58156,81ad99ac-8bbc-4509-9b98-58be70b46290,55.164.46.190
+2023-09-25 08:57:41,INFO,SystemService,Privilege Change for user 18111.,17647,446453f4-1831-48f1-9991-f492b3a70211,145.101.44.8
+2023-04-25 19:47:09,INFO,FileService,Password Change for user 44440.,52398,0c1864dc-ce2b-4fdb-9d1d-f5ffec000c8e,74.70.249.233
+2023-07-28 09:05:11,ERROR,PrivilegeService,Security Alert for user 40253.,81386,8fa55721-1cfd-4dbd-b20c-16c947891be1,68.78.160.172
+2023-03-27 06:26:11,INFO,SystemService,Export of Data for user 51699.,78446,c7ef8e59-f2b4-4ffa-9771-0cb7d4c4db12,79.57.65.111
+2023-10-07 15:48:15,INFO,SystemService,Privilege Change for user 75582.,34616,9ecbe1e0-fea9-48e9-9e01-e771be7a4a42,135.14.41.219
+2023-05-05 05:24:38,WARN,NetworkService,System Change for user 88434.,55396,87074431-510a-40a4-a06b-e36608c23ab3,145.184.182.3
+2023-11-10 00:41:19,WARN,FileService,Export of Data for user 16098.,22590,47e5e2cb-7e04-463a-9a9d-c101fb6fee2f,207.85.15.179
+2023-01-09 04:38:05,ERROR,PrivilegeService,Security Alert for user 21257.,92909,b3d81c1d-702e-4451-afdd-3056ae8cbc1b,95.165.196.242
+2023-06-06 09:28:49,INFO,AccountService,Export of Data for user 89958.,46028,4b233997-3359-4876-9d67-99a81d6e011b,69.168.126.36
+2023-07-10 06:38:09,WARN,AuthenticationService,Accessed Sensitive Data for user 37287.,96946,2e1a5152-a429-46be-9ba6-c7eda2cb708c,199.80.179.208
+2023-11-03 01:41:59,INFO,AccountService,Network Connection for user 18861.,10847,c9ffe778-d4a9-4109-ab58-7ff97d61bf87,23.96.240.22
+2023-08-15 13:00:56,ERROR,PrivilegeService,Accessed Sensitive Data for user 83961.,80320,923fc27b-3421-454e-9608-884c1cd0c635,13.39.183.129
+2023-08-24 01:44:00,INFO,AccountService,Network Connection for user 68960.,19043,498e3118-9dbc-4bcb-b9bf-669cc2ed0d75,134.187.192.214
+2023-02-05 15:20:16,ERROR,SystemService,Privilege Change for user 50591.,34496,237bd95b-b355-4705-9ee9-f457bf56ff8b,44.130.21.173
+2023-01-15 20:41:58,ERROR,UserLoginFailure,Failed Login Attempt,20103,ec627f92-35fe-4479-848d-047fca8b2a7c,183.180.172.201
+2023-04-25 06:22:55,ERROR,SystemService,Export of Data for user 61492.,43148,cba621e7-2635-4ec2-a545-4b8b66953c27,191.235.123.49
+2023-06-27 21:18:32,WARN,AuthenticationService,Password Change for user 56978.,64829,470ddd11-eaa8-4e68-9f19-c1e97dd8ea94,46.175.220.172
+2023-12-27 21:42:24,ERROR,AccountService,Password Change for user 30502.,95419,e2d0a453-0d81-4191-9693-ee2a153f0047,62.38.170.157
+2023-01-15 15:58:26,INFO,NewAccount,Account Creation,40145,16e682ec-6c1f-4a24-b461-fb4fc56d3725,188.140.79.236
+2023-01-22 09:46:18,WARN,SystemService,System Change for user 30823.,21501,6c4cbb77-3379-40d5-8e66-61997e662a9d,124.96.236.107
+2023-11-24 08:09:16,WARN,AccountService,Network Connection for user 63629.,22269,35dc5171-6bc9-49c9-be57-bcdabaf5063c,140.51.169.24
+2023-05-27 04:56:59,ERROR,FileService,Network Connection for user 23602.,23225,83e4be79-effb-4f56-82a7-a53770a4d673,39.92.94.245
+2023-06-06 10:56:00,INFO,UserLoginFailure,Failed Login Attempt,54981,704f7746-452b-4247-bc0d-b55717300842,53.31.166.207
+2023-08-22 23:35:43,INFO,NewAccount,Account Creation,23519,bb8bfb2d-5d23-4739-ba4f-2770a37b5ac7,132.210.30.115
+2023-07-29 19:16:50,INFO,NewAccount,Account Creation,47278,1734140a-08ae-4eb1-b2e7-09f052074a8a,133.19.21.209
+2023-01-24 18:35:52,ERROR,NetworkService,Password Change for user 60079.,74751,79e83bb3-eff6-4f37-ba90-3a709c27d14e,206.50.226.43
+2023-08-02 04:07:17,INFO,NewAccount,Account Creation,79796,7ec69f9e-3f5a-4131-83c5-2ca24da1d31d,88.152.42.228
+2023-03-08 19:48:43,ERROR,FileService,User Logout for user 26010.,34995,9943b89a-137e-48b9-90d3-e83b2ac513e8,171.127.118.48
+2023-11-22 07:46:53,ERROR,NewAccount,Account Creation,42038,af51441e-6c77-460e-8e80-1742ea52b422,33.112.166.211
+2023-08-26 22:22:18,ERROR,FileService,Network Connection for user 80068.,92238,a5b02108-1a7a-40e7-aabf-f30e7cac31cc,111.51.173.254
+2023-05-22 02:42:02,WARN,AuthenticationService,Account Deletion for user 86259.,94119,297e3bef-419f-4225-991d-b67e52be0d34,198.228.232.249
+2023-09-10 20:19:20,INFO,FileService,File Operation for user 46400.,88683,6d2f8522-2377-4c8e-a1e7-b74d2cd95f4b,218.24.170.227
+2023-06-02 21:27:07,INFO,AuthenticationService,Accessed Sensitive Data for user 57263.,15461,c334675e-0660-41cb-a1e7-b064c232636a,50.140.169.247
+2023-10-10 05:16:45,INFO,AccountService,Account Deletion for user 10623.,28006,aa7af267-28cb-46f9-b9c0-888786020211,200.21.139.104
+2023-03-11 13:47:37,INFO,PrivilegeService,Export of Data for user 81509.,29213,0fe5fd20-764b-4196-b860-8f922d7b33fd,200.36.95.96
+2023-12-03 01:03:32,WARN,PrivilegeService,Password Change for user 27482.,14987,eeec532f-ba20-40c1-b9e5-a1b721c974ef,58.247.239.84
+2023-04-19 07:59:59,ERROR,FileService,Security Alert for user 34966.,83881,cb4d0f10-82b2-4c2c-b3a5-e6ee5d994509,157.228.112.135
+2023-01-31 03:51:16,WARN,PrivilegeService,System Change for user 81187.,97015,9b3efd0e-9e18-4732-91a2-9bf37cd07f2d,179.244.183.127
+2023-08-19 20:28:33,ERROR,UserLoginFailure,Failed Login Attempt,78011,c58a2c4f-c2ef-4002-9bb7-c949ac6f4c4e,63.22.170.19
+2023-09-07 10:03:59,WARN,SystemService,Network Connection for user 56594.,65401,19061062-f228-4540-bef8-5bf49b056ee8,203.222.200.54
+2023-07-02 13:10:12,INFO,AccountService,Security Alert for user 86497.,38491,f811c415-2ba0-4c9d-9fb6-0e66b9fab36e,5.125.240.214
+2023-11-26 11:45:22,INFO,PrivilegeService,Accessed Sensitive Data for user 89482.,82382,dcf1dee6-e98a-49c1-b774-34a0ccccdf25,70.195.230.122
+2023-09-29 04:17:25,ERROR,AuthenticationService,Network Connection for user 23944.,57334,ef61c419-08cf-4f91-abb8-381c9c11743a,105.132.62.222
+2023-07-31 15:15:45,INFO,NetworkService,Network Connection for user 55228.,82262,a651920d-9214-4600-823e-deb1d555633a,215.212.126.202
+2023-05-20 08:02:48,WARN,FileService,Export of Data for user 53930.,56808,aee950b3-c62d-4f4d-a5a4-cf33166b29f1,168.124.33.40
+2023-10-23 12:59:23,WARN,AccountService,User Logout for user 26825.,57448,693e75be-c6a1-43d5-bdc4-9034da70bad7,23.67.233.88
+2023-03-29 01:27:38,WARN,AuthenticationService,Security Alert for user 87083.,78417,e0bdb9a5-ceb4-4661-bf2f-000a5a459b58,209.16.181.148
+2023-03-16 00:01:19,WARN,SystemService,User Logout for user 81762.,36366,9619e2f9-a089-4490-8136-bd75013e7a55,124.7.32.253
+2023-10-15 01:19:05,ERROR,NetworkService,User Logout for user 11157.,86191,8aedf63a-b2b8-4ac0-8e0f-ba06d4776be9,162.173.201.159
+2023-04-08 21:18:59,INFO,NewAccount,Account Creation,61001,1c6ad8ce-c3c7-4dc1-8dfd-578007c3ce51,121.79.94.34
+2023-01-08 08:58:41,WARN,FileService,File Operation for user 14397.,20716,592431a6-8373-4b8c-85c4-331ba8aa2aa5,74.130.183.36
+2023-08-25 04:29:05,INFO,FileService,File Operation for user 73050.,27888,bd1adc3b-90fd-41b4-986a-6a3576141d5d,179.80.222.243
+2023-12-22 12:37:06,INFO,PrivilegeService,System Change for user 44616.,63057,3112e37b-e8c9-4343-97c4-38c172b83e18,41.176.166.47
+2023-04-29 01:27:14,WARN,NetworkService,Account Deletion for user 65959.,90316,777c8d1e-5d68-4f1d-86fb-ffc6df4fc4ef,14.249.120.224
+2023-08-30 01:37:32,ERROR,AccountService,Network Connection for user 15210.,35878,6596961f-9207-4319-934e-f4973c8d6cd2,190.59.42.177
+2023-10-10 17:50:25,INFO,PrivilegeService,Security Alert for user 74264.,25185,5116e28a-27a8-4f2a-a690-8fe9e7966f64,215.86.185.28
+2023-03-04 11:18:42,ERROR,UserLoginSuccessful,User Login,18113,b5039f7e-cca4-48a6-a419-7d015505f905,123.11.251.41
+2023-11-14 12:02:55,WARN,AuthenticationService,User Logout for user 99224.,40604,846f9077-928c-4079-924a-a29df138febc,78.53.87.119
+2023-12-16 20:47:59,INFO,FileService,Accessed Sensitive Data for user 55601.,59150,582fc5da-7966-4eb4-bd46-346d2a3450c5,78.151.59.21
+2023-10-25 14:25:44,WARN,AccountService,Account Deletion for user 63383.,41064,ea2d9b72-47a1-41b0-ab7e-a52f8e02bc0e,99.4.216.39
+2023-04-15 15:33:23,INFO,AccountService,Account Deletion for user 25715.,31672,b3a0d265-bcfc-48fb-96cf-48cf422f175f,208.30.93.7
+2023-04-12 05:03:24,INFO,FileService,Export of Data for user 82635.,69132,2d8f32f2-a8dd-45a3-98e3-4cb1adffc9b5,49.237.165.68
+2023-12-15 07:21:16,INFO,AuthenticationService,User Logout for user 59099.,36409,7c248732-f36b-429f-b504-1bf471f712e6,63.225.73.136
+2023-09-22 20:26:10,INFO,AccountService,Privilege Change for user 88505.,12251,4e9ef19d-876f-4a33-a38f-40fef30ee00d,165.34.29.40
+2023-01-03 02:26:24,INFO,AccountService,Accessed Sensitive Data for user 81551.,20957,d0cad39e-3c49-42e7-9bb5-6aa6dbe63922,9.73.251.86
+2023-11-19 19:35:31,WARN,UserLoginFailure,Failed Login Attempt,89022,eb7fa70a-a56f-4688-873a-14636084566d,40.101.73.226
+2023-12-16 23:16:01,ERROR,NetworkService,Privilege Change for user 55070.,72889,225fb3d7-5bde-4bee-95ea-aeaf6ab33304,98.218.215.206
+2023-11-28 13:14:35,ERROR,UserLoginSuccessful,User Login,90086,9c68f391-e096-41b9-b15f-124d50596e48,174.33.230.155
+2023-02-24 02:36:55,ERROR,FileService,Account Deletion for user 84764.,49954,eaa7a4de-37a3-4df4-a949-ae5fda757dfe,169.161.145.251
+2023-05-22 03:56:40,ERROR,PrivilegeService,Privilege Change for user 46105.,65205,8a464d37-34d1-4bb7-ac36-0b907a3c4c7d,82.159.84.68
+2023-06-11 10:56:40,INFO,UserLoginSuccessful,User Login,10989,662e20da-4084-48b5-8529-82aad340deee,38.251.69.38
+2023-02-22 07:04:36,INFO,UserLoginSuccessful,User Login,74908,5d9002c4-61d6-4d30-82f2-ce9d0d3df4ae,29.81.183.130
+2023-02-15 16:42:25,ERROR,AuthenticationService,Security Alert for user 16870.,17900,f91851dc-e3f2-4325-8d6f-68925e4ad024,93.56.105.218
+2023-11-16 12:00:02,WARN,SystemService,Privilege Change for user 99325.,74607,ed26557d-1fd2-4131-a3f7-42715d15605c,124.141.252.172
+2023-08-04 16:26:34,ERROR,UserLoginFailure,Failed Login Attempt,79540,cc2c339c-ef7f-4484-b414-721cc266f8c7,186.25.211.155
+2023-05-01 02:19:02,ERROR,AuthenticationService,Export of Data for user 54559.,18369,8648506b-d758-407c-b1c7-54a978f1624b,110.243.58.174
+2023-02-04 08:39:54,INFO,UserLoginFailure,Failed Login Attempt,27970,a5b65ff7-ae4b-40a0-b3b7-277c9b036b7a,190.157.218.25
+2023-02-18 05:33:16,INFO,AuthenticationService,Privilege Change for user 49412.,36387,8d59515f-66fe-4a4e-900e-0daa2435c670,110.60.169.232
+2023-09-02 06:21:36,WARN,UserLoginSuccessful,User Login,80995,0547009c-2b8f-48be-b8d4-7b026893131c,87.219.119.146
+2023-12-16 08:32:38,ERROR,AccountService,Security Alert for user 51603.,17707,4fddffa1-8652-42c0-9aad-77e3674a7817,96.215.225.74
+2023-08-11 02:15:50,WARN,FileService,Network Connection for user 69602.,62613,8aeeea41-27ba-470a-a0c8-9391f3e306e1,8.140.191.71
+2023-10-06 15:11:14,INFO,UserLoginFailure,Failed Login Attempt,44292,69070469-0187-4a74-9c06-ee978e1c469e,204.93.97.27
+2023-01-18 01:28:28,ERROR,SystemService,Privilege Change for user 79380.,66086,1f031920-759a-4b3f-b983-c2afdd9a9307,5.3.229.105
+2023-04-05 16:32:47,ERROR,UserLoginFailure,Failed Login Attempt,59638,4383d805-49e6-4927-b324-47821dadd245,114.155.92.105
+2023-03-17 16:09:56,WARN,AuthenticationService,File Operation for user 71170.,41348,62880190-1a51-41e7-90f5-35b01f8b150d,85.207.90.200
+2023-03-12 10:40:16,WARN,NetworkService,File Operation for user 55040.,11151,3ccf770f-9fa4-407d-935d-c49792786374,109.4.224.187
+2023-04-20 15:37:35,WARN,SystemService,File Operation for user 93122.,15600,e3669bdd-4754-4345-934e-48233a659244,223.154.10.65
+2023-08-27 03:40:51,ERROR,AuthenticationService,Export of Data for user 71402.,25072,2de8d894-c03d-4001-8dad-cc828b1fb74b,103.191.58.147
+2023-11-05 07:18:31,WARN,AccountService,Export of Data for user 33086.,89071,26037c05-4767-4d43-a3e2-c96dd351540d,42.104.55.121
+2023-01-01 15:33:44,ERROR,AuthenticationService,User Logout for user 86335.,75011,2a84d0c6-73fe-4f50-ac34-2ee2b7a98a02,140.77.180.116
+2023-05-05 01:53:31,INFO,AuthenticationService,Accessed Sensitive Data for user 11913.,53878,91b51ccb-922f-44bd-a9cc-71b378c5266b,66.187.124.150
+2023-02-26 11:48:38,ERROR,NetworkService,Export of Data for user 96333.,72904,e22768d2-27ba-423b-8663-b1799ef9ccf0,66.94.51.225
+2023-07-21 10:41:44,INFO,FileService,Accessed Sensitive Data for user 39198.,11584,b07befa6-5d4e-40fd-b30c-424af1a7c60f,214.23.141.44
+2023-05-29 08:24:20,ERROR,NetworkService,System Change for user 48031.,75606,b3ec65bd-7fe7-4177-8fc7-52d1613d6d0a,95.167.132.232
+2023-02-03 19:45:06,ERROR,SystemService,Security Alert for user 60641.,27410,40584205-1616-46ee-8514-019f3ac2fbfa,28.147.178.213
+2023-09-07 06:04:22,WARN,SystemService,File Operation for user 76228.,79601,c3edb942-2e16-4b19-9941-fc3ac4231aa6,96.95.189.254
+2023-09-28 22:18:42,INFO,UserLoginSuccessful,User Login,66201,35d466d1-90e9-47cb-80b8-133b929f8fe8,180.216.54.116
+2023-10-19 01:07:36,WARN,FileService,Privilege Change for user 43516.,84608,3e4ec7d1-de38-4af4-a57d-0b47c6736ff0,146.29.143.100
+2023-11-16 23:29:59,INFO,PrivilegeService,File Operation for user 20183.,42500,baea8c8b-20bb-4a8a-910c-2fc72aea394c,98.151.97.10
+2023-11-02 05:01:23,WARN,SystemService,Account Deletion for user 31499.,28599,75ed1c1f-54b7-47c5-9b52-edcbbd487773,130.15.152.155
+2023-01-03 02:22:53,INFO,AccountService,Accessed Sensitive Data for user 16872.,43482,98c73bc6-baa3-477c-aa02-e6b60a5037be,46.6.229.184
+2023-10-05 23:04:00,ERROR,UserLoginFailure,Failed Login Attempt,53236,28dc0220-3ccc-43ef-b3cf-3b8dae85e0e8,167.31.156.217
+2023-05-19 18:10:34,ERROR,PrivilegeService,Accessed Sensitive Data for user 73533.,42989,caec8690-16c2-4baf-9404-4e8eea066f9d,168.167.5.213
+2023-12-25 00:20:37,ERROR,AccountService,Security Alert for user 94379.,62278,09ddcae6-1985-4ee2-8f28-ce5c1c7f919a,130.22.78.175
+2023-03-30 23:48:16,INFO,UserLoginFailure,Failed Login Attempt,65768,b5f8847a-6c40-45d6-aa47-7bf1ce2b41b8,164.223.243.153
+2023-04-20 08:58:34,WARN,NewAccount,Account Creation,22331,a86022cb-2560-46ca-9348-46f3427b266f,186.126.186.70
+2023-05-11 00:46:42,ERROR,FileService,Privilege Change for user 66090.,78344,7f6f67c6-5d23-4e60-8c9c-6e3206bbe1b7,210.144.122.243
+2023-07-23 16:01:11,INFO,NetworkService,Password Change for user 15191.,59544,a98b6851-3412-45b3-a83c-fd7c4f721402,164.117.11.189
+2023-05-28 00:16:35,ERROR,UserLoginSuccessful,User Login,41893,a6671c82-1365-45d3-8848-3339a4afcea8,165.95.2.189
+2023-03-18 08:04:07,WARN,PrivilegeService,Account Deletion for user 19668.,27363,0ade8560-58b2-4544-953a-19e20a27dada,62.192.162.167
+2023-12-16 10:15:45,ERROR,NetworkService,Privilege Change for user 90884.,70517,2a78bd53-e9db-4c7a-b374-e8d490d48c33,165.16.210.101
+2023-06-30 02:46:21,WARN,PrivilegeService,Security Alert for user 25942.,41846,998ef96e-0c42-4147-8d3e-fd7cd2fc5438,19.131.27.91
+2023-06-20 09:37:15,ERROR,AccountService,Export of Data for user 38998.,92393,92bd3594-3ef8-4f21-8bc0-edc1562be629,190.83.172.197
+2023-10-28 11:19:10,INFO,PrivilegeService,Privilege Change for user 25686.,78860,bfa1d53e-bb77-438a-b51a-b1349471979c,11.81.71.101
+2023-12-05 18:29:38,WARN,NetworkService,System Change for user 81600.,11030,02fd0c9c-e788-4079-88c2-ba764fbd9f56,30.23.211.17
+2023-02-12 13:43:59,WARN,SystemService,Network Connection for user 97331.,28502,5bf6ec0c-84fc-4a34-928f-7f69f032e817,215.76.238.112
+2023-01-29 08:01:48,WARN,SystemService,File Operation for user 28470.,87284,3bf4f830-a936-4dae-be48-15ce5af8e11f,220.129.169.172
+2023-10-24 05:58:00,INFO,SystemService,User Logout for user 84905.,20624,0a2cd4e3-c4b8-4eaa-ba39-9b9a4d7f1283,52.218.230.98
+2023-03-29 02:13:40,WARN,FileService,Account Deletion for user 60861.,75336,e55ec7b1-0116-4e27-95f7-de6196b8e814,189.178.177.142
+2023-02-28 00:14:00,INFO,PrivilegeService,Security Alert for user 56703.,83423,5a89c802-997a-4aae-97ed-839e91a6e852,177.27.199.166
+2023-05-10 13:52:33,WARN,UserLoginSuccessful,User Login,66997,7e24f944-3916-499e-8189-f1cd04e91325,60.42.211.122
+2023-12-23 23:37:14,WARN,NetworkService,Password Change for user 59752.,39384,94c0ff99-e49d-4138-9731-b0f54968da14,12.138.70.113
+2023-04-22 22:51:21,INFO,SystemService,Password Change for user 21306.,10812,74b0a2c4-368b-483d-8ced-ed577a89a535,37.52.192.3
+2023-12-18 07:40:09,INFO,SystemService,Security Alert for user 66626.,33751,5acced5f-ae83-46da-b10b-1b0ab2fe4c10,221.242.233.122
+2023-09-13 00:06:15,ERROR,SystemService,User Logout for user 36910.,24178,4dc719df-951c-42d4-b3bf-1edc7162d28e,215.229.53.73
+2023-12-23 21:56:42,ERROR,PrivilegeService,Privilege Change for user 46830.,39687,40adea11-a0b8-417e-86f5-099cdfb1195e,77.252.143.147
+2023-01-07 15:07:49,ERROR,SystemService,Security Alert for user 83992.,25724,5d9cb405-f4fd-4fef-8268-379834965e47,16.211.213.220
+2023-12-02 20:53:42,WARN,NewAccount,Account Creation,14386,5cdfe676-b442-4c98-b403-d6d82ad6803c,16.64.225.164
+2023-08-01 03:01:51,WARN,UserLoginFailure,Failed Login Attempt,92237,e02cf800-0aa4-4a31-b6e3-a813ad84a1a5,64.19.66.138
+2023-06-09 10:54:15,WARN,PrivilegeService,Privilege Change for user 31541.,54280,14fffa5a-cd2f-4e7a-9381-4739101aa33b,115.242.210.96
+2023-09-03 16:08:49,WARN,AccountService,Accessed Sensitive Data for user 79565.,56339,a98a95ac-a5d4-44d7-941a-13619361b443,25.6.87.119
+2023-06-11 23:14:36,INFO,UserLoginSuccessful,User Login,96589,db80574f-47d5-4417-a1c6-6dad5bfe6f6d,116.112.4.169
+2023-03-03 05:12:11,ERROR,PrivilegeService,Account Deletion for user 80418.,98900,acd13fe3-385c-474d-bcb9-b0f20948e519,20.141.136.53
+2023-04-07 23:24:51,INFO,FileService,Export of Data for user 96109.,49855,31573c3d-32a9-4187-be31-6cb6bb55fc43,122.232.65.150
+2023-08-20 16:22:43,ERROR,AuthenticationService,Accessed Sensitive Data for user 48744.,73447,030598a3-5714-4b3a-acb4-d067d2d24b16,214.129.17.190
+2023-05-18 04:59:00,WARN,NetworkService,Export of Data for user 24497.,46875,fcdd5cd5-7649-4b59-b3ad-4cf0158ed2c1,148.73.144.221
+2023-02-12 07:18:32,INFO,UserLoginSuccessful,User Login,10870,d4de9939-7ead-4212-8302-03642bfc65ba,73.20.167.143
+2023-01-12 21:57:52,INFO,AccountService,Privilege Change for user 44463.,17034,816944d8-b209-4572-82aa-d4ce0cd2a113,142.185.8.171
+2023-06-14 09:52:06,ERROR,FileService,Export of Data for user 75202.,20106,6b434266-0bd5-4612-bf33-16fe13cc668f,29.164.11.115
+2023-05-03 00:57:31,ERROR,AccountService,Privilege Change for user 18999.,10425,77cb7d4c-c6e0-488c-b822-670cfc6a5116,173.74.2.234
+2023-11-30 19:03:32,INFO,PrivilegeService,Account Deletion for user 38104.,29138,dceda496-4301-4a74-acde-5ce4d04407ab,124.98.96.246
+2023-07-27 15:51:04,ERROR,UserLoginFailure,Failed Login Attempt,38482,0dc17ca1-9ffd-4938-8903-65acef5a7240,196.58.9.197
+2023-07-13 14:50:24,ERROR,AuthenticationService,Security Alert for user 84487.,65193,613d900f-3e3f-4744-b61d-cacfc65a47a5,138.162.167.222
+2023-10-13 13:00:54,INFO,FileService,Password Change for user 64452.,64738,b354d632-c06d-4a12-a19f-8302c7493105,81.73.231.178
+2023-05-16 00:33:55,ERROR,UserLoginSuccessful,User Login,96287,42a81b59-d38c-451d-a4cd-89627cd21554,151.148.188.234
+2023-11-28 05:59:51,INFO,UserLoginSuccessful,User Login,61378,3e537163-df87-4e88-bef2-2d031a95eea6,164.199.75.40
+2023-07-12 10:53:44,WARN,AuthenticationService,Export of Data for user 33262.,98610,571c1bd8-099b-4fe8-a25d-0aec6e2beef5,85.131.229.171
+2023-07-13 11:11:01,INFO,PrivilegeService,Accessed Sensitive Data for user 14716.,31072,6e79c3d6-3ee1-4f6c-91f0-d5b561892d66,120.144.175.191
+2023-11-09 05:50:08,ERROR,NewAccount,Account Creation,90670,52056437-0e05-4ebe-995f-18023e0b75dc,96.244.89.132
+2023-01-18 08:25:15,WARN,PrivilegeService,Accessed Sensitive Data for user 70364.,62280,0b9f2d4d-2c6f-430c-aa8c-25fa86766605,165.125.157.111
+2023-09-07 23:30:02,INFO,NetworkService,File Operation for user 54598.,78446,d2e3c244-2159-4a07-bf10-16627092e751,35.140.25.115
+2023-08-29 10:45:52,INFO,UserLoginSuccessful,User Login,59768,4901162b-9da8-463f-9f27-ca9dbe0e1833,208.67.249.115
+2023-05-09 19:15:08,ERROR,PrivilegeService,Password Change for user 53981.,17922,cf2efdaa-d9a2-4ef7-8d55-686b15c2f2fc,158.148.200.188
+2023-11-04 08:55:03,ERROR,UserLoginSuccessful,User Login,99477,263c09dd-5059-494a-829a-13b60fc8d9b5,117.209.12.244
+2023-09-01 19:24:30,ERROR,AccountService,Accessed Sensitive Data for user 56890.,85162,e318ec67-55f9-4cbc-bb90-0c402d0b01eb,183.20.218.55
+2023-10-12 13:32:05,INFO,FileService,Export of Data for user 87624.,79662,752dee16-b4e0-4763-b09b-69b8b441e8f1,131.73.66.124
+2023-11-28 19:55:28,ERROR,AccountService,Privilege Change for user 61288.,44359,fdb6a549-7371-40c7-b81f-cb984548f3ff,71.254.15.223
+2023-10-19 09:06:35,INFO,AccountService,User Logout for user 24167.,49444,0e136d0c-8130-4f9f-8630-82305617d9a6,54.152.6.102
+2023-01-28 09:47:43,WARN,NewAccount,Account Creation,20149,f491e2a0-97b9-42d4-867f-6dcb911cebd5,86.126.189.108
+2023-08-15 21:02:09,WARN,NetworkService,File Operation for user 83675.,27087,72efcdd0-b956-4866-b87a-19239379766d,26.195.140.89
+2023-01-28 12:52:40,WARN,SystemService,Security Alert for user 25742.,80377,45a87fd9-74d3-4745-aa2e-6420043400a3,57.234.130.35
+2023-01-18 21:37:09,ERROR,UserLoginSuccessful,User Login,75536,a641ca1b-e948-48e7-a08b-105efac5df6f,94.250.197.95
+2023-06-25 22:43:03,WARN,SystemService,Security Alert for user 80291.,71483,9f763551-9e71-4f1f-93b3-be2a2bd01fcf,1.152.150.11
+2023-06-12 14:45:19,INFO,AccountService,Export of Data for user 16715.,15806,a0dae981-5b74-4b3c-8055-84d9715084d1,130.64.144.28
+2023-06-19 10:08:25,ERROR,PrivilegeService,User Logout for user 55917.,94119,35154b59-6acd-48ef-a98e-28848e012fcb,39.17.42.224
+2023-08-11 16:05:15,WARN,AuthenticationService,Password Change for user 28328.,84185,494ddae6-3ec5-42c0-ba66-a549b0223ca1,209.255.12.159
+2023-05-10 23:06:57,INFO,PrivilegeService,Accessed Sensitive Data for user 59575.,39265,fa949663-cbc8-4e66-9019-68f609d7758e,15.141.204.115
+2023-04-07 02:52:36,INFO,NetworkService,File Operation for user 65109.,18799,ac6671b0-9e75-4b63-9a0f-9865242bf264,210.84.19.101
+2023-05-28 01:08:43,ERROR,NewAccount,Account Creation,94923,7bea45bf-a502-4e79-8cb7-b628a98899a1,58.112.76.61
+2023-08-13 00:20:49,WARN,AccountService,Export of Data for user 94874.,73705,6bc3119f-8d06-4eb1-a3c3-eccee732ab02,88.113.115.174
+2023-03-30 06:48:15,ERROR,AccountService,Security Alert for user 85088.,68827,ff109475-dc78-4f0d-8553-7100bd597c8a,1.22.201.199
+2023-02-10 02:46:36,WARN,AuthenticationService,Password Change for user 87142.,54826,3896d84f-c5ef-455f-aa7c-042a22042d2a,69.148.175.77
+2023-12-12 04:40:42,WARN,NewAccount,Account Creation,56814,36ef389e-743e-4517-976f-f1783efd6beb,140.208.156.159
+2023-11-02 09:06:00,INFO,FileService,Password Change for user 71672.,38936,cb1378ee-c3d7-418b-b5da-0fadfbc2a8eb,165.55.241.168
+2023-05-02 07:17:49,INFO,UserLoginSuccessful,User Login,88468,289d4956-3ee2-4f3a-a7f0-9360606453e6,46.238.173.121
+2023-09-24 10:26:17,ERROR,UserLoginFailure,Failed Login Attempt,76541,00fe5804-bcce-4dae-ae57-2e7be5cb0627,12.81.30.77
+2023-01-17 02:12:00,ERROR,FileService,Privilege Change for user 22249.,76688,dd5281af-043c-402c-8ff2-2251983f100d,200.69.123.147
+2023-04-02 23:14:28,ERROR,UserLoginSuccessful,User Login,30703,b68b82ab-875b-4d12-8d53-76db2690a20d,85.41.241.27
+2023-09-10 10:53:48,INFO,UserLoginFailure,Failed Login Attempt,25248,24b02ff7-76f7-42b7-8f36-8e5d1f87b7bb,75.123.195.16
+2023-07-04 12:49:27,WARN,AccountService,Accessed Sensitive Data for user 96805.,47048,083fed65-40a4-44e6-ae31-072271282e17,122.229.48.224
